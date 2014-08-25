@@ -1,0 +1,22 @@
+apply plugin: 'java'
+apply plugin: 'application'
+
+sourceCompatibility = 1.7
+version = '1.0'
+
+mainClassName = 'OdReadExJava'
+
+run {
+    systemProperty "java.library.path", 'lib/teighajava/vc10dll'
+}
+
+repositories {
+    mavenCentral()
+    flatDir dirs: 'lib/teighajava/vc10dll'
+}
+
+dependencies {
+    compile name: 'TeighaJavaCore'
+    compile name: 'TeighaJavaDwg'
+    testCompile group: 'junit', name: 'junit', version: '4.11'
+}
