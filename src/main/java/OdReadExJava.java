@@ -274,8 +274,8 @@ public class OdReadExJava {
             //dumpLayers(db, indent);
 //            System.out.println("<<dumpLayers1 start>>\n");
 //            dumpLayers1(db, indent);
-            System.out.println("<<dumpLinetypes start>>\n");
-            //dumpLinetypes(db, indent);
+//            System.out.println("<<dumpLinetypes start>>\n");
+//            dumpLinetypes(db, indent);
 //            System.out.println("<<dumpTextStyles start>>\n");
 //            dumpTextStyles(db, indent);
 //            System.out.println("<<dumpDimStyles start>>\n");
@@ -1821,7 +1821,7 @@ public class OdReadExJava {
                 for (; !entityIter.done(); entityIter.step()) {
                     OdDbObject obj = entityIter.objectId().openObject();
                     OdDbEntity objEntity = OdDbEntity.cast(obj);
-                    if (!_toString(objEntity.layer()).equalsIgnoreCase("PIPELINE-KAQ-0803-TEXT")) {
+                    if (!objEntity.layer().equalsIgnoreCase("PIPELINE-KAQ-0803-TEXT")) {
                         continue;
                     }
                     writeLine(indent, "openObject() case1");

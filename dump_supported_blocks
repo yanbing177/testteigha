@@ -1,0 +1,1957 @@
+Layout Name . . . . . . . . . . . . . Model
+openObject() case1
+
+Type. . . . . . . . . . . . . . . . . com.opendesign.core.OdRxClass@1b834b9
+  IsErased. . . . . . . . . . . . . . false
+inside for
+    Center. . . . . . . . . . . . . . [9.5 5.4 0.0]
+    Radius. . . . . . . . . . . . . . 0.192
+    Diameter. . . . . . . . . . . . . 0.384
+    Normal. . . . . . . . . . . . . . [0.0 0.0 1.0]
+    Thickness . . . . . . . . . . . . 0.0
+    Start Point . . . . . . . . . . . [9.7 5.4 0.0]
+    End Point . . . . . . . . . . . . [9.7 5.4 0.0]
+    Closed. . . . . . . . . . . . . . true
+    Periodic. . . . . . . . . . . . . true
+    Area. . . . . . . . . . . . . . . 0.11581167158193413
+    Min Extents . . . . . . . . . . . [9.3 5.2 0.0]
+    Max Extents . . . . . . . . . . . [9.7 5.6 0.0]
+    Layer . . . . . . . . . . . . . . PIPELINE-KAQ-0803-TEXT
+    Color Index . . . . . . . . . . . 256
+    Color . . . . . . . . . . . . . . ByLayer r:0 g:0 b:0
+    Linetype. . . . . . . . . . . . . BYLAYER
+    LTscale . . . . . . . . . . . . . 1.0
+    Lineweight. . . . . . . . . . . . kLnWtByLayer
+    Plot Style. . . . . . . . . . . . ByLayer
+    Transparency Method . . . . . . . ByLayer
+    Visibility. . . . . . . . . . . . kVisible
+    Planar. . . . . . . . . . . . . . true
+openObject() case1
+
+Type. . . . . . . . . . . . . . . . . com.opendesign.core.OdRxClass@7fd24a
+  IsErased. . . . . . . . . . . . . . false
+inside for
+    Normal. . . . . . . . . . . . . . [0.0 0.0 1.0]
+    Thickness . . . . . . . . . . . . 0.0
+    Min Extents . . . . . . . . . . . [9.6 5.5 0.0]
+    Max Extents . . . . . . . . . . . [10.0 5.7 0.0]
+    Layer . . . . . . . . . . . . . . PIPELINE-KAQ-0803-TEXT
+    Color Index . . . . . . . . . . . 256
+    Color . . . . . . . . . . . . . . ByLayer r:0 g:0 b:0
+    Linetype. . . . . . . . . . . . . BYLAYER
+    LTscale . . . . . . . . . . . . . 1.0
+    Lineweight. . . . . . . . . . . . kLnWtByLayer
+    Plot Style. . . . . . . . . . . . ByLayer
+    Transparency Method . . . . . . . ByLayer
+    Visibility. . . . . . . . . . . . kVisible
+    Planar. . . . . . . . . . . . . . true
+openObject() case1
+
+Type. . . . . . . . . . . . . . . . . com.opendesign.core.OdRxClass@79d589
+  IsErased. . . . . . . . . . . . . . false
+inside for
+    !WARNING! . . . . . . . . . . . . NOT SUPPORTED YET: <AcDbSolid>
+openObject() case1
+
+Type. . . . . . . . . . . . . . . . . com.opendesign.core.OdRxClass@b243a2
+  IsErased. . . . . . . . . . . . . . false
+inside for
+    Text String . . . . . . . . . . . 1.0
+    Text Position . . . . . . . . . . [9.3 5.4 0.0]
+    Default Alignment . . . . . . . . true
+    Alignment Point . . . . . . . . . [9.5 5.4 0.0]
+    Height. . . . . . . . . . . . . . 0.12
+    Rotation. . . . . . . . . . . . . 0.0d
+    Horizontal Mode . . . . . . . . . kTextMid
+    Vertical Mode . . . . . . . . . . kTextBase
+    Mirrored in X . . . . . . . . . . false
+    Mirrored in Y . . . . . . . . . . false
+    Oblique . . . . . . . . . . . . . 0.0d
+    Text Style. . . . . . . . . . . . ROMANS
+        typeface
+        bold. . . . . . . . . . . . . false
+        italic. . . . . . . . . . . . false
+        charset . . . . . . . . . . . 0
+        pitchAndFamily. . . . . . . . 0
+    Width Factor. . . . . . . . . . . 1.0
+    TL Bounding Point . . . . . . . . [9.4 5.5 0.0]
+    TR Bounding Point . . . . . . . . [9.6 5.5 0.0]
+    BL Bounding Point . . . . . . . . [9.4 5.4 0.0]
+    BR Bounding Point . . . . . . . . [9.6 5.4 0.0]
+    Normal. . . . . . . . . . . . . . [0.0 0.0 1.0]
+    Thickness . . . . . . . . . . . . 0.0
+    Min Extents . . . . . . . . . . . [9.4 5.4 0.0]
+    Max Extents . . . . . . . . . . . [9.6 5.5 0.0]
+    Layer . . . . . . . . . . . . . . PIPELINE-KAQ-0803-TEXT
+    Color Index . . . . . . . . . . . 256
+    Color . . . . . . . . . . . . . . ByLayer r:0 g:0 b:0
+    Linetype. . . . . . . . . . . . . BYLAYER
+    LTscale . . . . . . . . . . . . . 1.0
+    Lineweight. . . . . . . . . . . . kLnWtByLayer
+    Plot Style. . . . . . . . . . . . ByLayer
+    Transparency Method . . . . . . . ByLayer
+    Visibility. . . . . . . . . . . . kVisible
+    Planar. . . . . . . . . . . . . . true
+openObject() case1
+
+Type. . . . . . . . . . . . . . . . . com.opendesign.core.OdRxClass@10eaaee
+  IsErased. . . . . . . . . . . . . . false
+inside for
+    Center. . . . . . . . . . . . . . [9.5 5.9 0.0]
+    Radius. . . . . . . . . . . . . . 0.192
+    Diameter. . . . . . . . . . . . . 0.384
+    Normal. . . . . . . . . . . . . . [0.0 0.0 1.0]
+    Thickness . . . . . . . . . . . . 0.0
+    Start Point . . . . . . . . . . . [9.7 5.9 0.0]
+    End Point . . . . . . . . . . . . [9.7 5.9 0.0]
+    Closed. . . . . . . . . . . . . . true
+    Periodic. . . . . . . . . . . . . true
+    Area. . . . . . . . . . . . . . . 0.11581167158193413
+    Min Extents . . . . . . . . . . . [9.3 5.7 0.0]
+    Max Extents . . . . . . . . . . . [9.7 6.1 0.0]
+    Layer . . . . . . . . . . . . . . PIPELINE-KAQ-0803-TEXT
+    Color Index . . . . . . . . . . . 256
+    Color . . . . . . . . . . . . . . ByLayer r:0 g:0 b:0
+    Linetype. . . . . . . . . . . . . BYLAYER
+    LTscale . . . . . . . . . . . . . 1.0
+    Lineweight. . . . . . . . . . . . kLnWtByLayer
+    Plot Style. . . . . . . . . . . . ByLayer
+    Transparency Method . . . . . . . ByLayer
+    Visibility. . . . . . . . . . . . kVisible
+    Planar. . . . . . . . . . . . . . true
+openObject() case1
+
+Type. . . . . . . . . . . . . . . . . com.opendesign.core.OdRxClass@1f81be9
+  IsErased. . . . . . . . . . . . . . false
+inside for
+    Normal. . . . . . . . . . . . . . [0.0 0.0 1.0]
+    Thickness . . . . . . . . . . . . 0.0
+    Min Extents . . . . . . . . . . . [9.7 6.0 0.0]
+    Max Extents . . . . . . . . . . . [10.0 6.2 0.0]
+    Layer . . . . . . . . . . . . . . PIPELINE-KAQ-0803-TEXT
+    Color Index . . . . . . . . . . . 256
+    Color . . . . . . . . . . . . . . ByLayer r:0 g:0 b:0
+    Linetype. . . . . . . . . . . . . BYLAYER
+    LTscale . . . . . . . . . . . . . 1.0
+    Lineweight. . . . . . . . . . . . kLnWtByLayer
+    Plot Style. . . . . . . . . . . . ByLayer
+    Transparency Method . . . . . . . ByLayer
+    Visibility. . . . . . . . . . . . kVisible
+    Planar. . . . . . . . . . . . . . true
+openObject() case1
+
+Type. . . . . . . . . . . . . . . . . com.opendesign.core.OdRxClass@1f06008
+  IsErased. . . . . . . . . . . . . . false
+inside for
+    !WARNING! . . . . . . . . . . . . NOT SUPPORTED YET: <AcDbSolid>
+openObject() case1
+
+Type. . . . . . . . . . . . . . . . . com.opendesign.core.OdRxClass@30b878
+  IsErased. . . . . . . . . . . . . . false
+inside for
+    Text String . . . . . . . . . . . 2.0
+    Text Position . . . . . . . . . . [9.4 5.8 0.0]
+    Default Alignment . . . . . . . . true
+    Alignment Point . . . . . . . . . [9.5 5.9 0.0]
+    Height. . . . . . . . . . . . . . 0.12
+    Rotation. . . . . . . . . . . . . 0.0d
+    Horizontal Mode . . . . . . . . . kTextMid
+    Vertical Mode . . . . . . . . . . kTextBase
+    Mirrored in X . . . . . . . . . . false
+    Mirrored in Y . . . . . . . . . . false
+    Oblique . . . . . . . . . . . . . 0.0d
+    Text Style. . . . . . . . . . . . ROMANS
+        typeface
+        bold. . . . . . . . . . . . . false
+        italic. . . . . . . . . . . . false
+        charset . . . . . . . . . . . 0
+        pitchAndFamily. . . . . . . . 0
+    Width Factor. . . . . . . . . . . 1.0
+    TL Bounding Point . . . . . . . . [9.4 5.9 0.0]
+    TR Bounding Point . . . . . . . . [9.6 5.9 0.0]
+    BL Bounding Point . . . . . . . . [9.4 5.8 0.0]
+    BR Bounding Point . . . . . . . . [9.6 5.8 0.0]
+    Normal. . . . . . . . . . . . . . [0.0 0.0 1.0]
+    Thickness . . . . . . . . . . . . 0.0
+    Min Extents . . . . . . . . . . . [9.4 5.8 0.0]
+    Max Extents . . . . . . . . . . . [9.6 5.9 0.0]
+    Layer . . . . . . . . . . . . . . PIPELINE-KAQ-0803-TEXT
+    Color Index . . . . . . . . . . . 256
+    Color . . . . . . . . . . . . . . ByLayer r:0 g:0 b:0
+    Linetype. . . . . . . . . . . . . BYLAYER
+    LTscale . . . . . . . . . . . . . 1.0
+    Lineweight. . . . . . . . . . . . kLnWtByLayer
+    Plot Style. . . . . . . . . . . . ByLayer
+    Transparency Method . . . . . . . ByLayer
+    Visibility. . . . . . . . . . . . kVisible
+    Planar. . . . . . . . . . . . . . true
+openObject() case1
+
+Type. . . . . . . . . . . . . . . . . com.opendesign.core.OdRxClass@9efb83
+  IsErased. . . . . . . . . . . . . . false
+inside for
+    Center. . . . . . . . . . . . . . [10.6 12.3 0.0]
+    Radius. . . . . . . . . . . . . . 0.192
+    Diameter. . . . . . . . . . . . . 0.384
+    Normal. . . . . . . . . . . . . . [0.0 0.0 1.0]
+    Thickness . . . . . . . . . . . . 0.0
+    Start Point . . . . . . . . . . . [10.8 12.3 0.0]
+    End Point . . . . . . . . . . . . [10.8 12.3 0.0]
+    Closed. . . . . . . . . . . . . . true
+    Periodic. . . . . . . . . . . . . true
+    Area. . . . . . . . . . . . . . . 0.11581167158193413
+    Min Extents . . . . . . . . . . . [10.4 12.1 0.0]
+    Max Extents . . . . . . . . . . . [10.8 12.5 0.0]
+    Layer . . . . . . . . . . . . . . PIPELINE-KAQ-0803-TEXT
+    Color Index . . . . . . . . . . . 256
+    Color . . . . . . . . . . . . . . ByLayer r:0 g:0 b:0
+    Linetype. . . . . . . . . . . . . BYLAYER
+    LTscale . . . . . . . . . . . . . 1.0
+    Lineweight. . . . . . . . . . . . kLnWtByLayer
+    Plot Style. . . . . . . . . . . . ByLayer
+    Transparency Method . . . . . . . ByLayer
+    Visibility. . . . . . . . . . . . kVisible
+    Planar. . . . . . . . . . . . . . true
+openObject() case1
+
+Type. . . . . . . . . . . . . . . . . com.opendesign.core.OdRxClass@1928a17
+  IsErased. . . . . . . . . . . . . . false
+inside for
+    Normal. . . . . . . . . . . . . . [0.0 0.0 1.0]
+    Thickness . . . . . . . . . . . . 0.0
+    Min Extents . . . . . . . . . . . [10.1 12.0 0.0]
+    Max Extents . . . . . . . . . . . [10.5 12.2 0.0]
+    Layer . . . . . . . . . . . . . . PIPELINE-KAQ-0803-TEXT
+    Color Index . . . . . . . . . . . 256
+    Color . . . . . . . . . . . . . . ByLayer r:0 g:0 b:0
+    Linetype. . . . . . . . . . . . . BYLAYER
+    LTscale . . . . . . . . . . . . . 1.0
+    Lineweight. . . . . . . . . . . . kLnWtByLayer
+    Plot Style. . . . . . . . . . . . ByLayer
+    Transparency Method . . . . . . . ByLayer
+    Visibility. . . . . . . . . . . . kVisible
+    Planar. . . . . . . . . . . . . . true
+openObject() case1
+
+Type. . . . . . . . . . . . . . . . . com.opendesign.core.OdRxClass@1a814d1
+  IsErased. . . . . . . . . . . . . . false
+inside for
+    !WARNING! . . . . . . . . . . . . NOT SUPPORTED YET: <AcDbSolid>
+openObject() case1
+
+Type. . . . . . . . . . . . . . . . . com.opendesign.core.OdRxClass@1eeb48d
+  IsErased. . . . . . . . . . . . . . false
+inside for
+    Text String . . . . . . . . . . . 8.0
+    Text Position . . . . . . . . . . [10.5 12.3 0.0]
+    Default Alignment . . . . . . . . true
+    Alignment Point . . . . . . . . . [10.6 12.3 0.0]
+    Height. . . . . . . . . . . . . . 0.12
+    Rotation. . . . . . . . . . . . . 0.0d
+    Horizontal Mode . . . . . . . . . kTextMid
+    Vertical Mode . . . . . . . . . . kTextBase
+    Mirrored in X . . . . . . . . . . false
+    Mirrored in Y . . . . . . . . . . false
+    Oblique . . . . . . . . . . . . . 0.0d
+    Text Style. . . . . . . . . . . . ROMANS
+        typeface
+        bold. . . . . . . . . . . . . false
+        italic. . . . . . . . . . . . false
+        charset . . . . . . . . . . . 0
+        pitchAndFamily. . . . . . . . 0
+    Width Factor. . . . . . . . . . . 1.0
+    TL Bounding Point . . . . . . . . [10.5 12.4 0.0]
+    TR Bounding Point . . . . . . . . [10.8 12.4 0.0]
+    BL Bounding Point . . . . . . . . [10.5 12.3 0.0]
+    BR Bounding Point . . . . . . . . [10.8 12.3 0.0]
+    Normal. . . . . . . . . . . . . . [0.0 0.0 1.0]
+    Thickness . . . . . . . . . . . . 0.0
+    Min Extents . . . . . . . . . . . [10.5 12.3 0.0]
+    Max Extents . . . . . . . . . . . [10.8 12.4 0.0]
+    Layer . . . . . . . . . . . . . . PIPELINE-KAQ-0803-TEXT
+    Color Index . . . . . . . . . . . 256
+    Color . . . . . . . . . . . . . . ByLayer r:0 g:0 b:0
+    Linetype. . . . . . . . . . . . . BYLAYER
+    LTscale . . . . . . . . . . . . . 1.0
+    Lineweight. . . . . . . . . . . . kLnWtByLayer
+    Plot Style. . . . . . . . . . . . ByLayer
+    Transparency Method . . . . . . . ByLayer
+    Visibility. . . . . . . . . . . . kVisible
+    Planar. . . . . . . . . . . . . . true
+openObject() case1
+
+Type. . . . . . . . . . . . . . . . . com.opendesign.core.OdRxClass@8f9805
+  IsErased. . . . . . . . . . . . . . false
+inside for
+    Center. . . . . . . . . . . . . . [9.2 13.0 0.0]
+    Radius. . . . . . . . . . . . . . 0.192
+    Diameter. . . . . . . . . . . . . 0.384
+    Normal. . . . . . . . . . . . . . [0.0 0.0 1.0]
+    Thickness . . . . . . . . . . . . 0.0
+    Start Point . . . . . . . . . . . [9.4 13.0 0.0]
+    End Point . . . . . . . . . . . . [9.4 13.0 0.0]
+    Closed. . . . . . . . . . . . . . true
+    Periodic. . . . . . . . . . . . . true
+    Area. . . . . . . . . . . . . . . 0.11581167158193413
+    Min Extents . . . . . . . . . . . [9.1 12.8 0.0]
+    Max Extents . . . . . . . . . . . [9.4 13.2 0.0]
+    Layer . . . . . . . . . . . . . . PIPELINE-KAQ-0803-TEXT
+    Color Index . . . . . . . . . . . 256
+    Color . . . . . . . . . . . . . . ByLayer r:0 g:0 b:0
+    Linetype. . . . . . . . . . . . . BYLAYER
+    LTscale . . . . . . . . . . . . . 1.0
+    Lineweight. . . . . . . . . . . . kLnWtByLayer
+    Plot Style. . . . . . . . . . . . ByLayer
+    Transparency Method . . . . . . . ByLayer
+    Visibility. . . . . . . . . . . . kVisible
+    Planar. . . . . . . . . . . . . . true
+openObject() case1
+
+Type. . . . . . . . . . . . . . . . . com.opendesign.core.OdRxClass@145af1f
+  IsErased. . . . . . . . . . . . . . false
+inside for
+    Normal. . . . . . . . . . . . . . [0.0 0.0 1.0]
+    Thickness . . . . . . . . . . . . 0.0
+    Min Extents . . . . . . . . . . . [9.2 12.5 0.0]
+    Max Extents . . . . . . . . . . . [9.2 12.8 0.0]
+    Layer . . . . . . . . . . . . . . PIPELINE-KAQ-0803-TEXT
+    Color Index . . . . . . . . . . . 256
+    Color . . . . . . . . . . . . . . ByLayer r:0 g:0 b:0
+    Linetype. . . . . . . . . . . . . BYLAYER
+    LTscale . . . . . . . . . . . . . 1.0
+    Lineweight. . . . . . . . . . . . kLnWtByLayer
+    Plot Style. . . . . . . . . . . . ByLayer
+    Transparency Method . . . . . . . ByLayer
+    Visibility. . . . . . . . . . . . kVisible
+    Planar. . . . . . . . . . . . . . true
+openObject() case1
+
+Type. . . . . . . . . . . . . . . . . com.opendesign.core.OdRxClass@1ec5237
+  IsErased. . . . . . . . . . . . . . false
+inside for
+    !WARNING! . . . . . . . . . . . . NOT SUPPORTED YET: <AcDbSolid>
+openObject() case1
+
+Type. . . . . . . . . . . . . . . . . com.opendesign.core.OdRxClass@9c90d
+  IsErased. . . . . . . . . . . . . . false
+inside for
+    Text String . . . . . . . . . . . 9.0
+    Text Position . . . . . . . . . . [9.1 13.0 0.0]
+    Default Alignment . . . . . . . . true
+    Alignment Point . . . . . . . . . [9.2 13.0 0.0]
+    Height. . . . . . . . . . . . . . 0.12
+    Rotation. . . . . . . . . . . . . 0.0d
+    Horizontal Mode . . . . . . . . . kTextMid
+    Vertical Mode . . . . . . . . . . kTextBase
+    Mirrored in X . . . . . . . . . . false
+    Mirrored in Y . . . . . . . . . . false
+    Oblique . . . . . . . . . . . . . 0.0d
+    Text Style. . . . . . . . . . . . ROMANS
+        typeface
+        bold. . . . . . . . . . . . . false
+        italic. . . . . . . . . . . . false
+        charset . . . . . . . . . . . 0
+        pitchAndFamily. . . . . . . . 0
+    Width Factor. . . . . . . . . . . 1.0
+    TL Bounding Point . . . . . . . . [9.1 13.1 0.0]
+    TR Bounding Point . . . . . . . . [9.4 13.1 0.0]
+    BL Bounding Point . . . . . . . . [9.1 13.0 0.0]
+    BR Bounding Point . . . . . . . . [9.4 13.0 0.0]
+    Normal. . . . . . . . . . . . . . [0.0 0.0 1.0]
+    Thickness . . . . . . . . . . . . 0.0
+    Min Extents . . . . . . . . . . . [9.1 13.0 0.0]
+    Max Extents . . . . . . . . . . . [9.4 13.1 0.0]
+    Layer . . . . . . . . . . . . . . PIPELINE-KAQ-0803-TEXT
+    Color Index . . . . . . . . . . . 256
+    Color . . . . . . . . . . . . . . ByLayer r:0 g:0 b:0
+    Linetype. . . . . . . . . . . . . BYLAYER
+    LTscale . . . . . . . . . . . . . 1.0
+    Lineweight. . . . . . . . . . . . kLnWtByLayer
+    Plot Style. . . . . . . . . . . . ByLayer
+    Transparency Method . . . . . . . ByLayer
+    Visibility. . . . . . . . . . . . kVisible
+    Planar. . . . . . . . . . . . . . true
+openObject() case1
+
+Type. . . . . . . . . . . . . . . . . com.opendesign.core.OdRxClass@96ff60
+  IsErased. . . . . . . . . . . . . . false
+inside for
+    Normal. . . . . . . . . . . . . . [0.0 0.0 1.0]
+    Thickness . . . . . . . . . . . . 0.0
+    Min Extents . . . . . . . . . . . [8.5 12.9 0.0]
+    Max Extents . . . . . . . . . . . [8.5 13.2 0.0]
+    Layer . . . . . . . . . . . . . . PIPELINE-KAQ-0803-TEXT
+    Color Index . . . . . . . . . . . 256
+    Color . . . . . . . . . . . . . . ByLayer r:0 g:0 b:0
+    Linetype. . . . . . . . . . . . . BYLAYER
+    LTscale . . . . . . . . . . . . . 1.0
+    Lineweight. . . . . . . . . . . . kLnWtByLayer
+    Plot Style. . . . . . . . . . . . ByLayer
+    Transparency Method . . . . . . . ByLayer
+    Visibility. . . . . . . . . . . . kVisible
+    Planar. . . . . . . . . . . . . . true
+openObject() case1
+
+Type. . . . . . . . . . . . . . . . . com.opendesign.core.OdRxClass@15817ba
+  IsErased. . . . . . . . . . . . . . false
+inside for
+    !WARNING! . . . . . . . . . . . . NOT SUPPORTED YET: <AcDbSolid>
+openObject() case1
+
+Type. . . . . . . . . . . . . . . . . com.opendesign.core.OdRxClass@7dca91
+  IsErased. . . . . . . . . . . . . . false
+inside for
+    Text String . . . . . . . . . . . 10.0
+    Text Position . . . . . . . . . . [8.3 13.4 0.0]
+    Default Alignment . . . . . . . . true
+    Alignment Point . . . . . . . . . [8.5 13.5 0.0]
+    Height. . . . . . . . . . . . . . 0.12
+    Rotation. . . . . . . . . . . . . 0.0d
+    Horizontal Mode . . . . . . . . . kTextMid
+    Vertical Mode . . . . . . . . . . kTextBase
+    Mirrored in X . . . . . . . . . . false
+    Mirrored in Y . . . . . . . . . . false
+    Oblique . . . . . . . . . . . . . 0.0d
+    Text Style. . . . . . . . . . . . ROMANS
+        typeface
+        bold. . . . . . . . . . . . . false
+        italic. . . . . . . . . . . . false
+        charset . . . . . . . . . . . 0
+        pitchAndFamily. . . . . . . . 0
+    Width Factor. . . . . . . . . . . 1.0
+    TL Bounding Point . . . . . . . . [8.3 13.5 0.0]
+    TR Bounding Point . . . . . . . . [8.7 13.5 0.0]
+    BL Bounding Point . . . . . . . . [8.3 13.4 0.0]
+    BR Bounding Point . . . . . . . . [8.7 13.4 0.0]
+    Normal. . . . . . . . . . . . . . [0.0 0.0 1.0]
+    Thickness . . . . . . . . . . . . 0.0
+    Min Extents . . . . . . . . . . . [8.3 13.4 0.0]
+    Max Extents . . . . . . . . . . . [8.7 13.5 0.0]
+    Layer . . . . . . . . . . . . . . PIPELINE-KAQ-0803-TEXT
+    Color Index . . . . . . . . . . . 256
+    Color . . . . . . . . . . . . . . ByLayer r:0 g:0 b:0
+    Linetype. . . . . . . . . . . . . BYLAYER
+    LTscale . . . . . . . . . . . . . 1.0
+    Lineweight. . . . . . . . . . . . kLnWtByLayer
+    Plot Style. . . . . . . . . . . . ByLayer
+    Transparency Method . . . . . . . ByLayer
+    Visibility. . . . . . . . . . . . kVisible
+    Planar. . . . . . . . . . . . . . true
+openObject() case1
+
+Type. . . . . . . . . . . . . . . . . com.opendesign.core.OdRxClass@7e084e
+  IsErased. . . . . . . . . . . . . . false
+inside for
+    Normal. . . . . . . . . . . . . . [0.0 0.0 1.0]
+    Thickness . . . . . . . . . . . . 0.0
+    Min Extents . . . . . . . . . . . [7.8 13.3 0.0]
+    Max Extents . . . . . . . . . . . [7.8 13.6 0.0]
+    Layer . . . . . . . . . . . . . . PIPELINE-KAQ-0803-TEXT
+    Color Index . . . . . . . . . . . 256
+    Color . . . . . . . . . . . . . . ByLayer r:0 g:0 b:0
+    Linetype. . . . . . . . . . . . . BYLAYER
+    LTscale . . . . . . . . . . . . . 1.0
+    Lineweight. . . . . . . . . . . . kLnWtByLayer
+    Plot Style. . . . . . . . . . . . ByLayer
+    Transparency Method . . . . . . . ByLayer
+    Visibility. . . . . . . . . . . . kVisible
+    Planar. . . . . . . . . . . . . . true
+openObject() case1
+
+Type. . . . . . . . . . . . . . . . . com.opendesign.core.OdRxClass@5358ef
+  IsErased. . . . . . . . . . . . . . false
+inside for
+    !WARNING! . . . . . . . . . . . . NOT SUPPORTED YET: <AcDbSolid>
+openObject() case1
+
+Type. . . . . . . . . . . . . . . . . com.opendesign.core.OdRxClass@1f3d5f4
+  IsErased. . . . . . . . . . . . . . false
+inside for
+    Text String . . . . . . . . . . . 11.0
+    Text Position . . . . . . . . . . [7.6 13.8 0.0]
+    Default Alignment . . . . . . . . true
+    Alignment Point . . . . . . . . . [7.8 13.9 0.0]
+    Height. . . . . . . . . . . . . . 0.12
+    Rotation. . . . . . . . . . . . . 0.0d
+    Horizontal Mode . . . . . . . . . kTextMid
+    Vertical Mode . . . . . . . . . . kTextBase
+    Mirrored in X . . . . . . . . . . false
+    Mirrored in Y . . . . . . . . . . false
+    Oblique . . . . . . . . . . . . . 0.0d
+    Text Style. . . . . . . . . . . . ROMANS
+        typeface
+        bold. . . . . . . . . . . . . false
+        italic. . . . . . . . . . . . false
+        charset . . . . . . . . . . . 0
+        pitchAndFamily. . . . . . . . 0
+    Width Factor. . . . . . . . . . . 1.0
+    TL Bounding Point . . . . . . . . [7.6 13.9 0.0]
+    TR Bounding Point . . . . . . . . [8.0 13.9 0.0]
+    BL Bounding Point . . . . . . . . [7.6 13.8 0.0]
+    BR Bounding Point . . . . . . . . [8.0 13.8 0.0]
+    Normal. . . . . . . . . . . . . . [0.0 0.0 1.0]
+    Thickness . . . . . . . . . . . . 0.0
+    Min Extents . . . . . . . . . . . [7.6 13.8 0.0]
+    Max Extents . . . . . . . . . . . [8.0 13.9 0.0]
+    Layer . . . . . . . . . . . . . . PIPELINE-KAQ-0803-TEXT
+    Color Index . . . . . . . . . . . 256
+    Color . . . . . . . . . . . . . . ByLayer r:0 g:0 b:0
+    Linetype. . . . . . . . . . . . . BYLAYER
+    LTscale . . . . . . . . . . . . . 1.0
+    Lineweight. . . . . . . . . . . . kLnWtByLayer
+    Plot Style. . . . . . . . . . . . ByLayer
+    Transparency Method . . . . . . . ByLayer
+    Visibility. . . . . . . . . . . . kVisible
+    Planar. . . . . . . . . . . . . . true
+openObject() case1
+
+Type. . . . . . . . . . . . . . . . . com.opendesign.core.OdRxClass@163a4ec
+  IsErased. . . . . . . . . . . . . . false
+inside for
+    Normal. . . . . . . . . . . . . . [0.0 0.0 1.0]
+    Thickness . . . . . . . . . . . . 0.0
+    Min Extents . . . . . . . . . . . [5.8 11.8 0.0]
+    Max Extents . . . . . . . . . . . [5.8 12.2 0.0]
+    Layer . . . . . . . . . . . . . . PIPELINE-KAQ-0803-TEXT
+    Color Index . . . . . . . . . . . 256
+    Color . . . . . . . . . . . . . . ByLayer r:0 g:0 b:0
+    Linetype. . . . . . . . . . . . . BYLAYER
+    LTscale . . . . . . . . . . . . . 1.0
+    Lineweight. . . . . . . . . . . . kLnWtByLayer
+    Plot Style. . . . . . . . . . . . ByLayer
+    Transparency Method . . . . . . . ByLayer
+    Visibility. . . . . . . . . . . . kVisible
+    Planar. . . . . . . . . . . . . . true
+openObject() case1
+
+Type. . . . . . . . . . . . . . . . . com.opendesign.core.OdRxClass@e084b7
+  IsErased. . . . . . . . . . . . . . false
+inside for
+    !WARNING! . . . . . . . . . . . . NOT SUPPORTED YET: <AcDbSolid>
+openObject() case1
+
+Type. . . . . . . . . . . . . . . . . com.opendesign.core.OdRxClass@2933dc
+  IsErased. . . . . . . . . . . . . . false
+inside for
+    Text String . . . . . . . . . . . 12.0
+    Text Position . . . . . . . . . . [5.6 11.5 0.0]
+    Default Alignment . . . . . . . . true
+    Alignment Point . . . . . . . . . [5.8 11.6 0.0]
+    Height. . . . . . . . . . . . . . 0.12
+    Rotation. . . . . . . . . . . . . 0.0d
+    Horizontal Mode . . . . . . . . . kTextMid
+    Vertical Mode . . . . . . . . . . kTextBase
+    Mirrored in X . . . . . . . . . . false
+    Mirrored in Y . . . . . . . . . . false
+    Oblique . . . . . . . . . . . . . 0.0d
+    Text Style. . . . . . . . . . . . ROMANS
+        typeface
+        bold. . . . . . . . . . . . . false
+        italic. . . . . . . . . . . . false
+        charset . . . . . . . . . . . 0
+        pitchAndFamily. . . . . . . . 0
+    Width Factor. . . . . . . . . . . 1.0
+    TL Bounding Point . . . . . . . . [5.7 11.7 0.0]
+    TR Bounding Point . . . . . . . . [6.0 11.7 0.0]
+    BL Bounding Point . . . . . . . . [5.7 11.5 0.0]
+    BR Bounding Point . . . . . . . . [6.0 11.5 0.0]
+    Normal. . . . . . . . . . . . . . [0.0 0.0 1.0]
+    Thickness . . . . . . . . . . . . 0.0
+    Min Extents . . . . . . . . . . . [5.7 11.5 0.0]
+    Max Extents . . . . . . . . . . . [6.0 11.7 0.0]
+    Layer . . . . . . . . . . . . . . PIPELINE-KAQ-0803-TEXT
+    Color Index . . . . . . . . . . . 256
+    Color . . . . . . . . . . . . . . ByLayer r:0 g:0 b:0
+    Linetype. . . . . . . . . . . . . BYLAYER
+    LTscale . . . . . . . . . . . . . 1.0
+    Lineweight. . . . . . . . . . . . kLnWtByLayer
+    Plot Style. . . . . . . . . . . . ByLayer
+    Transparency Method . . . . . . . ByLayer
+    Visibility. . . . . . . . . . . . kVisible
+    Planar. . . . . . . . . . . . . . true
+openObject() case1
+
+Type. . . . . . . . . . . . . . . . . com.opendesign.core.OdRxClass@10bd379
+  IsErased. . . . . . . . . . . . . . false
+inside for
+    Normal. . . . . . . . . . . . . . [0.0 0.0 1.0]
+    Thickness . . . . . . . . . . . . 0.0
+    Min Extents . . . . . . . . . . . [4.6 11.1 0.0]
+    Max Extents . . . . . . . . . . . [4.6 11.4 0.0]
+    Layer . . . . . . . . . . . . . . PIPELINE-KAQ-0803-TEXT
+    Color Index . . . . . . . . . . . 256
+    Color . . . . . . . . . . . . . . ByLayer r:0 g:0 b:0
+    Linetype. . . . . . . . . . . . . BYLAYER
+    LTscale . . . . . . . . . . . . . 1.0
+    Lineweight. . . . . . . . . . . . kLnWtByLayer
+    Plot Style. . . . . . . . . . . . ByLayer
+    Transparency Method . . . . . . . ByLayer
+    Visibility. . . . . . . . . . . . kVisible
+    Planar. . . . . . . . . . . . . . true
+openObject() case1
+
+Type. . . . . . . . . . . . . . . . . com.opendesign.core.OdRxClass@ffe655
+  IsErased. . . . . . . . . . . . . . false
+inside for
+    !WARNING! . . . . . . . . . . . . NOT SUPPORTED YET: <AcDbSolid>
+openObject() case1
+
+Type. . . . . . . . . . . . . . . . . com.opendesign.core.OdRxClass@6af6c3
+  IsErased. . . . . . . . . . . . . . false
+inside for
+    Text String . . . . . . . . . . . 13.0
+    Text Position . . . . . . . . . . [4.4 10.8 0.0]
+    Default Alignment . . . . . . . . true
+    Alignment Point . . . . . . . . . [4.6 10.9 0.0]
+    Height. . . . . . . . . . . . . . 0.12
+    Rotation. . . . . . . . . . . . . 0.0d
+    Horizontal Mode . . . . . . . . . kTextMid
+    Vertical Mode . . . . . . . . . . kTextBase
+    Mirrored in X . . . . . . . . . . false
+    Mirrored in Y . . . . . . . . . . false
+    Oblique . . . . . . . . . . . . . 0.0d
+    Text Style. . . . . . . . . . . . ROMANS
+        typeface
+        bold. . . . . . . . . . . . . false
+        italic. . . . . . . . . . . . false
+        charset . . . . . . . . . . . 0
+        pitchAndFamily. . . . . . . . 0
+    Width Factor. . . . . . . . . . . 1.0
+    TL Bounding Point . . . . . . . . [4.4 10.9 0.0]
+    TR Bounding Point . . . . . . . . [4.8 10.9 0.0]
+    BL Bounding Point . . . . . . . . [4.4 10.8 0.0]
+    BR Bounding Point . . . . . . . . [4.8 10.8 0.0]
+    Normal. . . . . . . . . . . . . . [0.0 0.0 1.0]
+    Thickness . . . . . . . . . . . . 0.0
+    Min Extents . . . . . . . . . . . [4.4 10.8 0.0]
+    Max Extents . . . . . . . . . . . [4.8 10.9 0.0]
+    Layer . . . . . . . . . . . . . . PIPELINE-KAQ-0803-TEXT
+    Color Index . . . . . . . . . . . 256
+    Color . . . . . . . . . . . . . . ByLayer r:0 g:0 b:0
+    Linetype. . . . . . . . . . . . . BYLAYER
+    LTscale . . . . . . . . . . . . . 1.0
+    Lineweight. . . . . . . . . . . . kLnWtByLayer
+    Plot Style. . . . . . . . . . . . ByLayer
+    Transparency Method . . . . . . . ByLayer
+    Visibility. . . . . . . . . . . . kVisible
+    Planar. . . . . . . . . . . . . . true
+openObject() case1
+
+Type. . . . . . . . . . . . . . . . . com.opendesign.core.OdRxClass@6e85a7
+  IsErased. . . . . . . . . . . . . . false
+inside for
+    Center. . . . . . . . . . . . . . [4.0 10.4 0.0]
+    Radius. . . . . . . . . . . . . . 0.24
+    Diameter. . . . . . . . . . . . . 0.48
+    Normal. . . . . . . . . . . . . . [0.0 0.0 1.0]
+    Thickness . . . . . . . . . . . . 0.0
+    Start Point . . . . . . . . . . . [4.3 10.4 0.0]
+    End Point . . . . . . . . . . . . [4.3 10.4 0.0]
+    Closed. . . . . . . . . . . . . . true
+    Periodic. . . . . . . . . . . . . true
+    Area. . . . . . . . . . . . . . . 0.18095573684677208
+    Min Extents . . . . . . . . . . . [3.8 10.2 0.0]
+    Max Extents . . . . . . . . . . . [4.3 10.6 0.0]
+    Layer . . . . . . . . . . . . . . PIPELINE-KAQ-0803-TEXT
+    Color Index . . . . . . . . . . . 256
+    Color . . . . . . . . . . . . . . ByLayer r:0 g:0 b:0
+    Linetype. . . . . . . . . . . . . BYLAYER
+    LTscale . . . . . . . . . . . . . 1.0
+    Lineweight. . . . . . . . . . . . kLnWtByLayer
+    Plot Style. . . . . . . . . . . . ByLayer
+    Transparency Method . . . . . . . ByLayer
+    Visibility. . . . . . . . . . . . kVisible
+    Planar. . . . . . . . . . . . . . true
+openObject() case1
+
+Type. . . . . . . . . . . . . . . . . com.opendesign.core.OdRxClass@8adbb
+  IsErased. . . . . . . . . . . . . . false
+inside for
+    Normal. . . . . . . . . . . . . . [0.0 0.0 1.0]
+    Thickness . . . . . . . . . . . . 0.0
+    Min Extents . . . . . . . . . . . [4.0 10.6 0.0]
+    Max Extents . . . . . . . . . . . [4.0 11.0 0.0]
+    Layer . . . . . . . . . . . . . . PIPELINE-KAQ-0803-TEXT
+    Color Index . . . . . . . . . . . 256
+    Color . . . . . . . . . . . . . . ByLayer r:0 g:0 b:0
+    Linetype. . . . . . . . . . . . . BYLAYER
+    LTscale . . . . . . . . . . . . . 1.0
+    Lineweight. . . . . . . . . . . . kLnWtByLayer
+    Plot Style. . . . . . . . . . . . ByLayer
+    Transparency Method . . . . . . . ByLayer
+    Visibility. . . . . . . . . . . . kVisible
+    Planar. . . . . . . . . . . . . . true
+openObject() case1
+
+Type. . . . . . . . . . . . . . . . . com.opendesign.core.OdRxClass@1c5d629
+  IsErased. . . . . . . . . . . . . . false
+inside for
+    !WARNING! . . . . . . . . . . . . NOT SUPPORTED YET: <AcDbSolid>
+openObject() case1
+
+Type. . . . . . . . . . . . . . . . . com.opendesign.core.OdRxClass@16f24cf
+  IsErased. . . . . . . . . . . . . . false
+inside for
+    Text String . . . . . . . . . . . 15.0
+    Text Position . . . . . . . . . . [3.8 10.3 0.0]
+    Default Alignment . . . . . . . . true
+    Alignment Point . . . . . . . . . [4.0 10.4 0.0]
+    Height. . . . . . . . . . . . . . 0.12
+    Rotation. . . . . . . . . . . . . 0.0d
+    Horizontal Mode . . . . . . . . . kTextMid
+    Vertical Mode . . . . . . . . . . kTextBase
+    Mirrored in X . . . . . . . . . . false
+    Mirrored in Y . . . . . . . . . . false
+    Oblique . . . . . . . . . . . . . 0.0d
+    Text Style. . . . . . . . . . . . ROMANS
+        typeface
+        bold. . . . . . . . . . . . . false
+        italic. . . . . . . . . . . . false
+        charset . . . . . . . . . . . 0
+        pitchAndFamily. . . . . . . . 0
+    Width Factor. . . . . . . . . . . 1.0
+    TL Bounding Point . . . . . . . . [3.9 10.5 0.0]
+    TR Bounding Point . . . . . . . . [4.2 10.5 0.0]
+    BL Bounding Point . . . . . . . . [3.9 10.3 0.0]
+    BR Bounding Point . . . . . . . . [4.2 10.3 0.0]
+    Normal. . . . . . . . . . . . . . [0.0 0.0 1.0]
+    Thickness . . . . . . . . . . . . 0.0
+    Min Extents . . . . . . . . . . . [3.9 10.3 0.0]
+    Max Extents . . . . . . . . . . . [4.2 10.5 0.0]
+    Layer . . . . . . . . . . . . . . PIPELINE-KAQ-0803-TEXT
+    Color Index . . . . . . . . . . . 256
+    Color . . . . . . . . . . . . . . ByLayer r:0 g:0 b:0
+    Linetype. . . . . . . . . . . . . BYLAYER
+    LTscale . . . . . . . . . . . . . 1.0
+    Lineweight. . . . . . . . . . . . kLnWtByLayer
+    Plot Style. . . . . . . . . . . . ByLayer
+    Transparency Method . . . . . . . ByLayer
+    Visibility. . . . . . . . . . . . kVisible
+    Planar. . . . . . . . . . . . . . true
+openObject() case1
+
+Type. . . . . . . . . . . . . . . . . com.opendesign.core.OdRxClass@1cd2ed4
+  IsErased. . . . . . . . . . . . . . false
+inside for
+    Center. . . . . . . . . . . . . . [3.4 10.0 0.0]
+    Radius. . . . . . . . . . . . . . 0.24
+    Diameter. . . . . . . . . . . . . 0.48
+    Normal. . . . . . . . . . . . . . [0.0 0.0 1.0]
+    Thickness . . . . . . . . . . . . 0.0
+    Start Point . . . . . . . . . . . [3.6 10.0 0.0]
+    End Point . . . . . . . . . . . . [3.6 10.0 0.0]
+    Closed. . . . . . . . . . . . . . true
+    Periodic. . . . . . . . . . . . . true
+    Area. . . . . . . . . . . . . . . 0.18095573684677208
+    Min Extents . . . . . . . . . . . [3.2 9.8 0.0]
+    Max Extents . . . . . . . . . . . [3.6 10.2 0.0]
+    Layer . . . . . . . . . . . . . . PIPELINE-KAQ-0803-TEXT
+    Color Index . . . . . . . . . . . 256
+    Color . . . . . . . . . . . . . . ByLayer r:0 g:0 b:0
+    Linetype. . . . . . . . . . . . . BYLAYER
+    LTscale . . . . . . . . . . . . . 1.0
+    Lineweight. . . . . . . . . . . . kLnWtByLayer
+    Plot Style. . . . . . . . . . . . ByLayer
+    Transparency Method . . . . . . . ByLayer
+    Visibility. . . . . . . . . . . . kVisible
+    Planar. . . . . . . . . . . . . . true
+openObject() case1
+
+Type. . . . . . . . . . . . . . . . . com.opendesign.core.OdRxClass@1bd8312
+  IsErased. . . . . . . . . . . . . . false
+inside for
+    Normal. . . . . . . . . . . . . . [0.0 0.0 1.0]
+    Thickness . . . . . . . . . . . . 0.0
+    Min Extents . . . . . . . . . . . [3.4 10.2 0.0]
+    Max Extents . . . . . . . . . . . [3.4 10.6 0.0]
+    Layer . . . . . . . . . . . . . . PIPELINE-KAQ-0803-TEXT
+    Color Index . . . . . . . . . . . 256
+    Color . . . . . . . . . . . . . . ByLayer r:0 g:0 b:0
+    Linetype. . . . . . . . . . . . . BYLAYER
+    LTscale . . . . . . . . . . . . . 1.0
+    Lineweight. . . . . . . . . . . . kLnWtByLayer
+    Plot Style. . . . . . . . . . . . ByLayer
+    Transparency Method . . . . . . . ByLayer
+    Visibility. . . . . . . . . . . . kVisible
+    Planar. . . . . . . . . . . . . . true
+openObject() case1
+
+Type. . . . . . . . . . . . . . . . . com.opendesign.core.OdRxClass@e83db1
+  IsErased. . . . . . . . . . . . . . false
+inside for
+    !WARNING! . . . . . . . . . . . . NOT SUPPORTED YET: <AcDbSolid>
+openObject() case1
+
+Type. . . . . . . . . . . . . . . . . com.opendesign.core.OdRxClass@12a4fbb
+  IsErased. . . . . . . . . . . . . . false
+inside for
+    Text String . . . . . . . . . . . 16.0
+    Text Position . . . . . . . . . . [3.2 9.9 0.0]
+    Default Alignment . . . . . . . . true
+    Alignment Point . . . . . . . . . [3.4 10.0 0.0]
+    Height. . . . . . . . . . . . . . 0.12
+    Rotation. . . . . . . . . . . . . 0.0d
+    Horizontal Mode . . . . . . . . . kTextMid
+    Vertical Mode . . . . . . . . . . kTextBase
+    Mirrored in X . . . . . . . . . . false
+    Mirrored in Y . . . . . . . . . . false
+    Oblique . . . . . . . . . . . . . 0.0d
+    Text Style. . . . . . . . . . . . ROMANS
+        typeface
+        bold. . . . . . . . . . . . . false
+        italic. . . . . . . . . . . . false
+        charset . . . . . . . . . . . 0
+        pitchAndFamily. . . . . . . . 0
+    Width Factor. . . . . . . . . . . 1.0
+    TL Bounding Point . . . . . . . . [3.2 10.1 0.0]
+    TR Bounding Point . . . . . . . . [3.6 10.1 0.0]
+    BL Bounding Point . . . . . . . . [3.2 9.9 0.0]
+    BR Bounding Point . . . . . . . . [3.6 9.9 0.0]
+    Normal. . . . . . . . . . . . . . [0.0 0.0 1.0]
+    Thickness . . . . . . . . . . . . 0.0
+    Min Extents . . . . . . . . . . . [3.2 9.9 0.0]
+    Max Extents . . . . . . . . . . . [3.6 10.1 0.0]
+    Layer . . . . . . . . . . . . . . PIPELINE-KAQ-0803-TEXT
+    Color Index . . . . . . . . . . . 256
+    Color . . . . . . . . . . . . . . ByLayer r:0 g:0 b:0
+    Linetype. . . . . . . . . . . . . BYLAYER
+    LTscale . . . . . . . . . . . . . 1.0
+    Lineweight. . . . . . . . . . . . kLnWtByLayer
+    Plot Style. . . . . . . . . . . . ByLayer
+    Transparency Method . . . . . . . ByLayer
+    Visibility. . . . . . . . . . . . kVisible
+    Planar. . . . . . . . . . . . . . true
+openObject() case1
+
+Type. . . . . . . . . . . . . . . . . com.opendesign.core.OdRxClass@d87e96
+  IsErased. . . . . . . . . . . . . . false
+inside for
+    Center. . . . . . . . . . . . . . [1.9 9.1 0.0]
+    Radius. . . . . . . . . . . . . . 0.24
+    Diameter. . . . . . . . . . . . . 0.48
+    Normal. . . . . . . . . . . . . . [0.0 0.0 1.0]
+    Thickness . . . . . . . . . . . . 0.0
+    Start Point . . . . . . . . . . . [2.2 9.1 0.0]
+    End Point . . . . . . . . . . . . [2.2 9.1 0.0]
+    Closed. . . . . . . . . . . . . . true
+    Periodic. . . . . . . . . . . . . true
+    Area. . . . . . . . . . . . . . . 0.18095573684677208
+    Min Extents . . . . . . . . . . . [1.7 8.9 0.0]
+    Max Extents . . . . . . . . . . . [2.2 9.4 0.0]
+    Layer . . . . . . . . . . . . . . PIPELINE-KAQ-0803-TEXT
+    Color Index . . . . . . . . . . . 256
+    Color . . . . . . . . . . . . . . ByLayer r:0 g:0 b:0
+    Linetype. . . . . . . . . . . . . BYLAYER
+    LTscale . . . . . . . . . . . . . 1.0
+    Lineweight. . . . . . . . . . . . kLnWtByLayer
+    Plot Style. . . . . . . . . . . . ByLayer
+    Transparency Method . . . . . . . ByLayer
+    Visibility. . . . . . . . . . . . kVisible
+    Planar. . . . . . . . . . . . . . true
+openObject() case1
+
+Type. . . . . . . . . . . . . . . . . com.opendesign.core.OdRxClass@15eaa49
+  IsErased. . . . . . . . . . . . . . false
+inside for
+    Normal. . . . . . . . . . . . . . [0.0 0.0 1.0]
+    Thickness . . . . . . . . . . . . 0.0
+    Min Extents . . . . . . . . . . . [1.9 9.4 0.0]
+    Max Extents . . . . . . . . . . . [1.9 9.7 0.0]
+    Layer . . . . . . . . . . . . . . PIPELINE-KAQ-0803-TEXT
+    Color Index . . . . . . . . . . . 256
+    Color . . . . . . . . . . . . . . ByLayer r:0 g:0 b:0
+    Linetype. . . . . . . . . . . . . BYLAYER
+    LTscale . . . . . . . . . . . . . 1.0
+    Lineweight. . . . . . . . . . . . kLnWtByLayer
+    Plot Style. . . . . . . . . . . . ByLayer
+    Transparency Method . . . . . . . ByLayer
+    Visibility. . . . . . . . . . . . kVisible
+    Planar. . . . . . . . . . . . . . true
+openObject() case1
+
+Type. . . . . . . . . . . . . . . . . com.opendesign.core.OdRxClass@1fda160
+  IsErased. . . . . . . . . . . . . . false
+inside for
+    !WARNING! . . . . . . . . . . . . NOT SUPPORTED YET: <AcDbSolid>
+openObject() case1
+
+Type. . . . . . . . . . . . . . . . . com.opendesign.core.OdRxClass@6daabf
+  IsErased. . . . . . . . . . . . . . false
+inside for
+    Text String . . . . . . . . . . . 17.0
+    Text Position . . . . . . . . . . [1.7 9.1 0.0]
+    Default Alignment . . . . . . . . true
+    Alignment Point . . . . . . . . . [1.9 9.1 0.0]
+    Height. . . . . . . . . . . . . . 0.12
+    Rotation. . . . . . . . . . . . . 0.0d
+    Horizontal Mode . . . . . . . . . kTextMid
+    Vertical Mode . . . . . . . . . . kTextBase
+    Mirrored in X . . . . . . . . . . false
+    Mirrored in Y . . . . . . . . . . false
+    Oblique . . . . . . . . . . . . . 0.0d
+    Text Style. . . . . . . . . . . . ROMANS
+        typeface
+        bold. . . . . . . . . . . . . false
+        italic. . . . . . . . . . . . false
+        charset . . . . . . . . . . . 0
+        pitchAndFamily. . . . . . . . 0
+    Width Factor. . . . . . . . . . . 1.0
+    TL Bounding Point . . . . . . . . [1.8 9.2 0.0]
+    TR Bounding Point . . . . . . . . [2.1 9.2 0.0]
+    BL Bounding Point . . . . . . . . [1.8 9.1 0.0]
+    BR Bounding Point . . . . . . . . [2.1 9.1 0.0]
+    Normal. . . . . . . . . . . . . . [0.0 0.0 1.0]
+    Thickness . . . . . . . . . . . . 0.0
+    Min Extents . . . . . . . . . . . [1.8 9.1 0.0]
+    Max Extents . . . . . . . . . . . [2.1 9.2 0.0]
+    Layer . . . . . . . . . . . . . . PIPELINE-KAQ-0803-TEXT
+    Color Index . . . . . . . . . . . 256
+    Color . . . . . . . . . . . . . . ByLayer r:0 g:0 b:0
+    Linetype. . . . . . . . . . . . . BYLAYER
+    LTscale . . . . . . . . . . . . . 1.0
+    Lineweight. . . . . . . . . . . . kLnWtByLayer
+    Plot Style. . . . . . . . . . . . ByLayer
+    Transparency Method . . . . . . . ByLayer
+    Visibility. . . . . . . . . . . . kVisible
+    Planar. . . . . . . . . . . . . . true
+openObject() case1
+
+Type. . . . . . . . . . . . . . . . . com.opendesign.core.OdRxClass@1e5182f
+  IsErased. . . . . . . . . . . . . . false
+inside for
+    Center. . . . . . . . . . . . . . [9.4 6.3 0.0]
+    Radius. . . . . . . . . . . . . . 0.192
+    Diameter. . . . . . . . . . . . . 0.384
+    Normal. . . . . . . . . . . . . . [0.0 0.0 1.0]
+    Thickness . . . . . . . . . . . . 0.0
+    Start Point . . . . . . . . . . . [9.6 6.3 0.0]
+    End Point . . . . . . . . . . . . [9.6 6.3 0.0]
+    Closed. . . . . . . . . . . . . . true
+    Periodic. . . . . . . . . . . . . true
+    Area. . . . . . . . . . . . . . . 0.11581167158193413
+    Min Extents . . . . . . . . . . . [9.3 6.2 0.0]
+    Max Extents . . . . . . . . . . . [9.6 6.5 0.0]
+    Layer . . . . . . . . . . . . . . PIPELINE-KAQ-0803-TEXT
+    Color Index . . . . . . . . . . . 256
+    Color . . . . . . . . . . . . . . ByLayer r:0 g:0 b:0
+    Linetype. . . . . . . . . . . . . BYLAYER
+    LTscale . . . . . . . . . . . . . 1.0
+    Lineweight. . . . . . . . . . . . kLnWtByLayer
+    Plot Style. . . . . . . . . . . . ByLayer
+    Transparency Method . . . . . . . ByLayer
+    Visibility. . . . . . . . . . . . kVisible
+    Planar. . . . . . . . . . . . . . true
+openObject() case1
+
+Type. . . . . . . . . . . . . . . . . com.opendesign.core.OdRxClass@196d982
+  IsErased. . . . . . . . . . . . . . false
+inside for
+    Normal. . . . . . . . . . . . . . [0.0 0.0 1.0]
+    Thickness . . . . . . . . . . . . 0.0
+    Min Extents . . . . . . . . . . . [9.6 6.4 0.0]
+    Max Extents . . . . . . . . . . . [10.0 6.7 0.0]
+    Layer . . . . . . . . . . . . . . PIPELINE-KAQ-0803-TEXT
+    Color Index . . . . . . . . . . . 256
+    Color . . . . . . . . . . . . . . ByLayer r:0 g:0 b:0
+    Linetype. . . . . . . . . . . . . BYLAYER
+    LTscale . . . . . . . . . . . . . 1.0
+    Lineweight. . . . . . . . . . . . kLnWtByLayer
+    Plot Style. . . . . . . . . . . . ByLayer
+    Transparency Method . . . . . . . ByLayer
+    Visibility. . . . . . . . . . . . kVisible
+    Planar. . . . . . . . . . . . . . true
+openObject() case1
+
+Type. . . . . . . . . . . . . . . . . com.opendesign.core.OdRxClass@a20878
+  IsErased. . . . . . . . . . . . . . false
+inside for
+    !WARNING! . . . . . . . . . . . . NOT SUPPORTED YET: <AcDbSolid>
+openObject() case1
+
+Type. . . . . . . . . . . . . . . . . com.opendesign.core.OdRxClass@1da31e5
+  IsErased. . . . . . . . . . . . . . false
+inside for
+    Text String . . . . . . . . . . . 3.0
+    Text Position . . . . . . . . . . [9.3 6.3 0.0]
+    Default Alignment . . . . . . . . true
+    Alignment Point . . . . . . . . . [9.4 6.3 0.0]
+    Height. . . . . . . . . . . . . . 0.12
+    Rotation. . . . . . . . . . . . . 0.0d
+    Horizontal Mode . . . . . . . . . kTextMid
+    Vertical Mode . . . . . . . . . . kTextBase
+    Mirrored in X . . . . . . . . . . false
+    Mirrored in Y . . . . . . . . . . false
+    Oblique . . . . . . . . . . . . . 0.0d
+    Text Style. . . . . . . . . . . . ROMANS
+        typeface
+        bold. . . . . . . . . . . . . false
+        italic. . . . . . . . . . . . false
+        charset . . . . . . . . . . . 0
+        pitchAndFamily. . . . . . . . 0
+    Width Factor. . . . . . . . . . . 1.0
+    TL Bounding Point . . . . . . . . [9.3 6.4 0.0]
+    TR Bounding Point . . . . . . . . [9.6 6.4 0.0]
+    BL Bounding Point . . . . . . . . [9.3 6.3 0.0]
+    BR Bounding Point . . . . . . . . [9.6 6.3 0.0]
+    Normal. . . . . . . . . . . . . . [0.0 0.0 1.0]
+    Thickness . . . . . . . . . . . . 0.0
+    Min Extents . . . . . . . . . . . [9.3 6.3 0.0]
+    Max Extents . . . . . . . . . . . [9.6 6.4 0.0]
+    Layer . . . . . . . . . . . . . . PIPELINE-KAQ-0803-TEXT
+    Color Index . . . . . . . . . . . 256
+    Color . . . . . . . . . . . . . . ByLayer r:0 g:0 b:0
+    Linetype. . . . . . . . . . . . . BYLAYER
+    LTscale . . . . . . . . . . . . . 1.0
+    Lineweight. . . . . . . . . . . . kLnWtByLayer
+    Plot Style. . . . . . . . . . . . ByLayer
+    Transparency Method . . . . . . . ByLayer
+    Visibility. . . . . . . . . . . . kVisible
+    Planar. . . . . . . . . . . . . . true
+openObject() case1
+
+Type. . . . . . . . . . . . . . . . . com.opendesign.core.OdRxClass@dbbb9f
+  IsErased. . . . . . . . . . . . . . false
+inside for
+    Center. . . . . . . . . . . . . . [4.3 12.0 0.0]
+    Radius. . . . . . . . . . . . . . 0.24
+    Diameter. . . . . . . . . . . . . 0.48
+    Normal. . . . . . . . . . . . . . [0.0 0.0 1.0]
+    Thickness . . . . . . . . . . . . 0.0
+    Start Point . . . . . . . . . . . [4.5 12.0 0.0]
+    End Point . . . . . . . . . . . . [4.5 12.0 0.0]
+    Closed. . . . . . . . . . . . . . true
+    Periodic. . . . . . . . . . . . . true
+    Area. . . . . . . . . . . . . . . 0.18095573684677208
+    Min Extents . . . . . . . . . . . [4.0 11.8 0.0]
+    Max Extents . . . . . . . . . . . [4.5 12.3 0.0]
+    Layer . . . . . . . . . . . . . . PIPELINE-KAQ-0803-TEXT
+    Color Index . . . . . . . . . . . 256
+    Color . . . . . . . . . . . . . . ByLayer r:0 g:0 b:0
+    Linetype. . . . . . . . . . . . . BYLAYER
+    LTscale . . . . . . . . . . . . . 1.0
+    Lineweight. . . . . . . . . . . . kLnWtByLayer
+    Plot Style. . . . . . . . . . . . ByLayer
+    Transparency Method . . . . . . . ByLayer
+    Visibility. . . . . . . . . . . . kVisible
+    Planar. . . . . . . . . . . . . . true
+openObject() case1
+
+Type. . . . . . . . . . . . . . . . . com.opendesign.core.OdRxClass@1fac636
+  IsErased. . . . . . . . . . . . . . false
+inside for
+    Normal. . . . . . . . . . . . . . [0.0 0.0 1.0]
+    Thickness . . . . . . . . . . . . 0.0
+    Min Extents . . . . . . . . . . . [4.3 11.4 0.0]
+    Max Extents . . . . . . . . . . . [4.3 11.8 0.0]
+    Layer . . . . . . . . . . . . . . PIPELINE-KAQ-0803-TEXT
+    Color Index . . . . . . . . . . . 256
+    Color . . . . . . . . . . . . . . ByLayer r:0 g:0 b:0
+    Linetype. . . . . . . . . . . . . BYLAYER
+    LTscale . . . . . . . . . . . . . 1.0
+    Lineweight. . . . . . . . . . . . kLnWtByLayer
+    Plot Style. . . . . . . . . . . . ByLayer
+    Transparency Method . . . . . . . ByLayer
+    Visibility. . . . . . . . . . . . kVisible
+    Planar. . . . . . . . . . . . . . true
+openObject() case1
+
+Type. . . . . . . . . . . . . . . . . com.opendesign.core.OdRxClass@eb3fbd
+  IsErased. . . . . . . . . . . . . . false
+inside for
+    !WARNING! . . . . . . . . . . . . NOT SUPPORTED YET: <AcDbSolid>
+openObject() case1
+
+Type. . . . . . . . . . . . . . . . . com.opendesign.core.OdRxClass@a5a334
+  IsErased. . . . . . . . . . . . . . false
+inside for
+    Text String . . . . . . . . . . . 14.0
+    Text Position . . . . . . . . . . [4.1 12.0 0.0]
+    Default Alignment . . . . . . . . true
+    Alignment Point . . . . . . . . . [4.3 12.0 0.0]
+    Height. . . . . . . . . . . . . . 0.12
+    Rotation. . . . . . . . . . . . . 0.0d
+    Horizontal Mode . . . . . . . . . kTextMid
+    Vertical Mode . . . . . . . . . . kTextBase
+    Mirrored in X . . . . . . . . . . false
+    Mirrored in Y . . . . . . . . . . false
+    Oblique . . . . . . . . . . . . . 0.0d
+    Text Style. . . . . . . . . . . . ROMANS
+        typeface
+        bold. . . . . . . . . . . . . false
+        italic. . . . . . . . . . . . false
+        charset . . . . . . . . . . . 0
+        pitchAndFamily. . . . . . . . 0
+    Width Factor. . . . . . . . . . . 1.0
+    TL Bounding Point . . . . . . . . [4.1 12.1 0.0]
+    TR Bounding Point . . . . . . . . [4.4 12.1 0.0]
+    BL Bounding Point . . . . . . . . [4.1 12.0 0.0]
+    BR Bounding Point . . . . . . . . [4.4 12.0 0.0]
+    Normal. . . . . . . . . . . . . . [0.0 0.0 1.0]
+    Thickness . . . . . . . . . . . . 0.0
+    Min Extents . . . . . . . . . . . [4.1 12.0 0.0]
+    Max Extents . . . . . . . . . . . [4.4 12.1 0.0]
+    Layer . . . . . . . . . . . . . . PIPELINE-KAQ-0803-TEXT
+    Color Index . . . . . . . . . . . 256
+    Color . . . . . . . . . . . . . . ByLayer r:0 g:0 b:0
+    Linetype. . . . . . . . . . . . . BYLAYER
+    LTscale . . . . . . . . . . . . . 1.0
+    Lineweight. . . . . . . . . . . . kLnWtByLayer
+    Plot Style. . . . . . . . . . . . ByLayer
+    Transparency Method . . . . . . . ByLayer
+    Visibility. . . . . . . . . . . . kVisible
+    Planar. . . . . . . . . . . . . . true
+openObject() case1
+
+Type. . . . . . . . . . . . . . . . . com.opendesign.core.OdRxClass@19a6d9
+  IsErased. . . . . . . . . . . . . . false
+inside for
+    Center. . . . . . . . . . . . . . [4.6 10.9 0.0]
+    Radius. . . . . . . . . . . . . . 0.24
+    Diameter. . . . . . . . . . . . . 0.48
+    Normal. . . . . . . . . . . . . . [0.0 0.0 1.0]
+    Thickness . . . . . . . . . . . . 0.0
+    Start Point . . . . . . . . . . . [4.8 10.9 0.0]
+    End Point . . . . . . . . . . . . [4.8 10.9 0.0]
+    Closed. . . . . . . . . . . . . . true
+    Periodic. . . . . . . . . . . . . true
+    Area. . . . . . . . . . . . . . . 0.18095573684677208
+    Min Extents . . . . . . . . . . . [4.4 10.6 0.0]
+    Max Extents . . . . . . . . . . . [4.8 11.1 0.0]
+    Layer . . . . . . . . . . . . . . PIPELINE-KAQ-0803-TEXT
+    Color Index . . . . . . . . . . . 256
+    Color . . . . . . . . . . . . . . ByLayer r:0 g:0 b:0
+    Linetype. . . . . . . . . . . . . BYLAYER
+    LTscale . . . . . . . . . . . . . 1.0
+    Lineweight. . . . . . . . . . . . kLnWtByLayer
+    Plot Style. . . . . . . . . . . . ByLayer
+    Transparency Method . . . . . . . ByLayer
+    Visibility. . . . . . . . . . . . kVisible
+    Planar. . . . . . . . . . . . . . true
+openObject() case1
+
+Type. . . . . . . . . . . . . . . . . com.opendesign.core.OdRxClass@18f9d7
+  IsErased. . . . . . . . . . . . . . false
+inside for
+    Center. . . . . . . . . . . . . . [5.8 11.6 0.0]
+    Radius. . . . . . . . . . . . . . 0.24
+    Diameter. . . . . . . . . . . . . 0.48
+    Normal. . . . . . . . . . . . . . [0.0 0.0 1.0]
+    Thickness . . . . . . . . . . . . 0.0
+    Start Point . . . . . . . . . . . [6.1 11.6 0.0]
+    End Point . . . . . . . . . . . . [6.1 11.6 0.0]
+    Closed. . . . . . . . . . . . . . true
+    Periodic. . . . . . . . . . . . . true
+    Area. . . . . . . . . . . . . . . 0.18095573684677208
+    Min Extents . . . . . . . . . . . [5.6 11.4 0.0]
+    Max Extents . . . . . . . . . . . [6.1 11.8 0.0]
+    Layer . . . . . . . . . . . . . . PIPELINE-KAQ-0803-TEXT
+    Color Index . . . . . . . . . . . 256
+    Color . . . . . . . . . . . . . . ByLayer r:0 g:0 b:0
+    Linetype. . . . . . . . . . . . . BYLAYER
+    LTscale . . . . . . . . . . . . . 1.0
+    Lineweight. . . . . . . . . . . . kLnWtByLayer
+    Plot Style. . . . . . . . . . . . ByLayer
+    Transparency Method . . . . . . . ByLayer
+    Visibility. . . . . . . . . . . . kVisible
+    Planar. . . . . . . . . . . . . . true
+openObject() case1
+
+Type. . . . . . . . . . . . . . . . . com.opendesign.core.OdRxClass@1babc5c
+  IsErased. . . . . . . . . . . . . . false
+inside for
+    Center. . . . . . . . . . . . . . [7.8 13.9 0.0]
+    Radius. . . . . . . . . . . . . . 0.24
+    Diameter. . . . . . . . . . . . . 0.48
+    Normal. . . . . . . . . . . . . . [0.0 0.0 1.0]
+    Thickness . . . . . . . . . . . . 0.0
+    Start Point . . . . . . . . . . . [8.0 13.9 0.0]
+    End Point . . . . . . . . . . . . [8.0 13.9 0.0]
+    Closed. . . . . . . . . . . . . . true
+    Periodic. . . . . . . . . . . . . true
+    Area. . . . . . . . . . . . . . . 0.18095573684677208
+    Min Extents . . . . . . . . . . . [7.6 13.6 0.0]
+    Max Extents . . . . . . . . . . . [8.0 14.1 0.0]
+    Layer . . . . . . . . . . . . . . PIPELINE-KAQ-0803-TEXT
+    Color Index . . . . . . . . . . . 256
+    Color . . . . . . . . . . . . . . ByLayer r:0 g:0 b:0
+    Linetype. . . . . . . . . . . . . BYLAYER
+    LTscale . . . . . . . . . . . . . 1.0
+    Lineweight. . . . . . . . . . . . kLnWtByLayer
+    Plot Style. . . . . . . . . . . . ByLayer
+    Transparency Method . . . . . . . ByLayer
+    Visibility. . . . . . . . . . . . kVisible
+    Planar. . . . . . . . . . . . . . true
+openObject() case1
+
+Type. . . . . . . . . . . . . . . . . com.opendesign.core.OdRxClass@a47031
+  IsErased. . . . . . . . . . . . . . false
+inside for
+    Center. . . . . . . . . . . . . . [8.5 13.5 0.0]
+    Radius. . . . . . . . . . . . . . 0.24
+    Diameter. . . . . . . . . . . . . 0.48
+    Normal. . . . . . . . . . . . . . [0.0 0.0 1.0]
+    Thickness . . . . . . . . . . . . 0.0
+    Start Point . . . . . . . . . . . [8.7 13.5 0.0]
+    End Point . . . . . . . . . . . . [8.7 13.5 0.0]
+    Closed. . . . . . . . . . . . . . true
+    Periodic. . . . . . . . . . . . . true
+    Area. . . . . . . . . . . . . . . 0.18095573684677208
+    Min Extents . . . . . . . . . . . [8.3 13.2 0.0]
+    Max Extents . . . . . . . . . . . [8.7 13.7 0.0]
+    Layer . . . . . . . . . . . . . . PIPELINE-KAQ-0803-TEXT
+    Color Index . . . . . . . . . . . 256
+    Color . . . . . . . . . . . . . . ByLayer r:0 g:0 b:0
+    Linetype. . . . . . . . . . . . . BYLAYER
+    LTscale . . . . . . . . . . . . . 1.0
+    Lineweight. . . . . . . . . . . . kLnWtByLayer
+    Plot Style. . . . . . . . . . . . ByLayer
+    Transparency Method . . . . . . . ByLayer
+    Visibility. . . . . . . . . . . . kVisible
+    Planar. . . . . . . . . . . . . . true
+openObject() case1
+
+Type. . . . . . . . . . . . . . . . . com.opendesign.core.OdRxClass@1c1c532
+  IsErased. . . . . . . . . . . . . . false
+inside for
+    Center. . . . . . . . . . . . . . [10.8 5.4 0.0]
+    Radius. . . . . . . . . . . . . . 0.24
+    Diameter. . . . . . . . . . . . . 0.48
+    Normal. . . . . . . . . . . . . . [0.0 0.0 1.0]
+    Thickness . . . . . . . . . . . . 0.0
+    Start Point . . . . . . . . . . . [11.0 5.4 0.0]
+    End Point . . . . . . . . . . . . [11.0 5.4 0.0]
+    Closed. . . . . . . . . . . . . . true
+    Periodic. . . . . . . . . . . . . true
+    Area. . . . . . . . . . . . . . . 0.18095573684677208
+    Min Extents . . . . . . . . . . . [10.5 5.2 0.0]
+    Max Extents . . . . . . . . . . . [11.0 5.7 0.0]
+    Layer . . . . . . . . . . . . . . PIPELINE-KAQ-0803-TEXT
+    Color Index . . . . . . . . . . . 256
+    Color . . . . . . . . . . . . . . ByLayer r:0 g:0 b:0
+    Linetype. . . . . . . . . . . . . BYLAYER
+    LTscale . . . . . . . . . . . . . 1.0
+    Lineweight. . . . . . . . . . . . kLnWtByLayer
+    Plot Style. . . . . . . . . . . . ByLayer
+    Transparency Method . . . . . . . ByLayer
+    Visibility. . . . . . . . . . . . kVisible
+    Planar. . . . . . . . . . . . . . true
+openObject() case1
+
+Type. . . . . . . . . . . . . . . . . com.opendesign.core.OdRxClass@79819a
+  IsErased. . . . . . . . . . . . . . false
+inside for
+    Normal. . . . . . . . . . . . . . [0.0 0.0 1.0]
+    Thickness . . . . . . . . . . . . 0.0
+    Min Extents . . . . . . . . . . . [10.2 5.1 0.0]
+    Max Extents . . . . . . . . . . . [10.6 5.3 0.0]
+    Layer . . . . . . . . . . . . . . PIPELINE-KAQ-0803-TEXT
+    Color Index . . . . . . . . . . . 256
+    Color . . . . . . . . . . . . . . ByLayer r:0 g:0 b:0
+    Linetype. . . . . . . . . . . . . BYLAYER
+    LTscale . . . . . . . . . . . . . 1.0
+    Lineweight. . . . . . . . . . . . kLnWtByLayer
+    Plot Style. . . . . . . . . . . . ByLayer
+    Transparency Method . . . . . . . ByLayer
+    Visibility. . . . . . . . . . . . kVisible
+    Planar. . . . . . . . . . . . . . true
+openObject() case1
+
+Type. . . . . . . . . . . . . . . . . com.opendesign.core.OdRxClass@12bb82b
+  IsErased. . . . . . . . . . . . . . false
+inside for
+    !WARNING! . . . . . . . . . . . . NOT SUPPORTED YET: <AcDbSolid>
+openObject() case1
+
+Type. . . . . . . . . . . . . . . . . com.opendesign.core.OdRxClass@148221d
+  IsErased. . . . . . . . . . . . . . false
+inside for
+    Text String . . . . . . . . . . . 18.0
+    Text Position . . . . . . . . . . [10.6 5.4 0.0]
+    Default Alignment . . . . . . . . true
+    Alignment Point . . . . . . . . . [10.8 5.4 0.0]
+    Height. . . . . . . . . . . . . . 0.12
+    Rotation. . . . . . . . . . . . . 0.0d
+    Horizontal Mode . . . . . . . . . kTextMid
+    Vertical Mode . . . . . . . . . . kTextBase
+    Mirrored in X . . . . . . . . . . false
+    Mirrored in Y . . . . . . . . . . false
+    Oblique . . . . . . . . . . . . . 0.0d
+    Text Style. . . . . . . . . . . . ROMANS
+        typeface
+        bold. . . . . . . . . . . . . false
+        italic. . . . . . . . . . . . false
+        charset . . . . . . . . . . . 0
+        pitchAndFamily. . . . . . . . 0
+    Width Factor. . . . . . . . . . . 1.0
+    TL Bounding Point . . . . . . . . [10.6 5.5 0.0]
+    TR Bounding Point . . . . . . . . [10.9 5.5 0.0]
+    BL Bounding Point . . . . . . . . [10.6 5.4 0.0]
+    BR Bounding Point . . . . . . . . [10.9 5.4 0.0]
+    Normal. . . . . . . . . . . . . . [0.0 0.0 1.0]
+    Thickness . . . . . . . . . . . . 0.0
+    Min Extents . . . . . . . . . . . [10.6 5.4 0.0]
+    Max Extents . . . . . . . . . . . [10.9 5.5 0.0]
+    Layer . . . . . . . . . . . . . . PIPELINE-KAQ-0803-TEXT
+    Color Index . . . . . . . . . . . 256
+    Color . . . . . . . . . . . . . . ByLayer r:0 g:0 b:0
+    Linetype. . . . . . . . . . . . . BYLAYER
+    LTscale . . . . . . . . . . . . . 1.0
+    Lineweight. . . . . . . . . . . . kLnWtByLayer
+    Plot Style. . . . . . . . . . . . ByLayer
+    Transparency Method . . . . . . . ByLayer
+    Visibility. . . . . . . . . . . . kVisible
+    Planar. . . . . . . . . . . . . . true
+openObject() case1
+
+Type. . . . . . . . . . . . . . . . . com.opendesign.core.OdRxClass@b7cbb6
+  IsErased. . . . . . . . . . . . . . false
+inside for
+    Center. . . . . . . . . . . . . . [9.4 6.8 0.0]
+    Radius. . . . . . . . . . . . . . 0.192
+    Diameter. . . . . . . . . . . . . 0.384
+    Normal. . . . . . . . . . . . . . [0.0 0.0 1.0]
+    Thickness . . . . . . . . . . . . 0.0
+    Start Point . . . . . . . . . . . [9.6 6.8 0.0]
+    End Point . . . . . . . . . . . . [9.6 6.8 0.0]
+    Closed. . . . . . . . . . . . . . true
+    Periodic. . . . . . . . . . . . . true
+    Area. . . . . . . . . . . . . . . 0.11581167158193413
+    Min Extents . . . . . . . . . . . [9.3 6.6 0.0]
+    Max Extents . . . . . . . . . . . [9.6 7.0 0.0]
+    Layer . . . . . . . . . . . . . . PIPELINE-KAQ-0803-TEXT
+    Color Index . . . . . . . . . . . 256
+    Color . . . . . . . . . . . . . . ByLayer r:0 g:0 b:0
+    Linetype. . . . . . . . . . . . . BYLAYER
+    LTscale . . . . . . . . . . . . . 1.0
+    Lineweight. . . . . . . . . . . . kLnWtByLayer
+    Plot Style. . . . . . . . . . . . ByLayer
+    Transparency Method . . . . . . . ByLayer
+    Visibility. . . . . . . . . . . . kVisible
+    Planar. . . . . . . . . . . . . . true
+openObject() case1
+
+Type. . . . . . . . . . . . . . . . . com.opendesign.core.OdRxClass@9f2146
+  IsErased. . . . . . . . . . . . . . false
+inside for
+    Normal. . . . . . . . . . . . . . [0.0 0.0 1.0]
+    Thickness . . . . . . . . . . . . 0.0
+    Min Extents . . . . . . . . . . . [9.6 6.9 0.0]
+    Max Extents . . . . . . . . . . . [10.0 7.1 0.0]
+    Layer . . . . . . . . . . . . . . PIPELINE-KAQ-0803-TEXT
+    Color Index . . . . . . . . . . . 256
+    Color . . . . . . . . . . . . . . ByLayer r:0 g:0 b:0
+    Linetype. . . . . . . . . . . . . BYLAYER
+    LTscale . . . . . . . . . . . . . 1.0
+    Lineweight. . . . . . . . . . . . kLnWtByLayer
+    Plot Style. . . . . . . . . . . . ByLayer
+    Transparency Method . . . . . . . ByLayer
+    Visibility. . . . . . . . . . . . kVisible
+    Planar. . . . . . . . . . . . . . true
+openObject() case1
+
+Type. . . . . . . . . . . . . . . . . com.opendesign.core.OdRxClass@1419ddc
+  IsErased. . . . . . . . . . . . . . false
+inside for
+    !WARNING! . . . . . . . . . . . . NOT SUPPORTED YET: <AcDbSolid>
+openObject() case1
+
+Type. . . . . . . . . . . . . . . . . com.opendesign.core.OdRxClass@e2ecb3
+  IsErased. . . . . . . . . . . . . . false
+inside for
+    Text String . . . . . . . . . . . 4.0
+    Text Position . . . . . . . . . . [9.3 6.7 0.0]
+    Default Alignment . . . . . . . . true
+    Alignment Point . . . . . . . . . [9.4 6.8 0.0]
+    Height. . . . . . . . . . . . . . 0.12
+    Rotation. . . . . . . . . . . . . 0.0d
+    Horizontal Mode . . . . . . . . . kTextMid
+    Vertical Mode . . . . . . . . . . kTextBase
+    Mirrored in X . . . . . . . . . . false
+    Mirrored in Y . . . . . . . . . . false
+    Oblique . . . . . . . . . . . . . 0.0d
+    Text Style. . . . . . . . . . . . ROMANS
+        typeface
+        bold. . . . . . . . . . . . . false
+        italic. . . . . . . . . . . . false
+        charset . . . . . . . . . . . 0
+        pitchAndFamily. . . . . . . . 0
+    Width Factor. . . . . . . . . . . 1.0
+    TL Bounding Point . . . . . . . . [9.3 6.8 0.0]
+    TR Bounding Point . . . . . . . . [9.6 6.8 0.0]
+    BL Bounding Point . . . . . . . . [9.3 6.7 0.0]
+    BR Bounding Point . . . . . . . . [9.6 6.7 0.0]
+    Normal. . . . . . . . . . . . . . [0.0 0.0 1.0]
+    Thickness . . . . . . . . . . . . 0.0
+    Min Extents . . . . . . . . . . . [9.3 6.7 0.0]
+    Max Extents . . . . . . . . . . . [9.6 6.8 0.0]
+    Layer . . . . . . . . . . . . . . PIPELINE-KAQ-0803-TEXT
+    Color Index . . . . . . . . . . . 256
+    Color . . . . . . . . . . . . . . ByLayer r:0 g:0 b:0
+    Linetype. . . . . . . . . . . . . BYLAYER
+    LTscale . . . . . . . . . . . . . 1.0
+    Lineweight. . . . . . . . . . . . kLnWtByLayer
+    Plot Style. . . . . . . . . . . . ByLayer
+    Transparency Method . . . . . . . ByLayer
+    Visibility. . . . . . . . . . . . kVisible
+    Planar. . . . . . . . . . . . . . true
+openObject() case1
+
+Type. . . . . . . . . . . . . . . . . com.opendesign.core.OdRxClass@220d76
+  IsErased. . . . . . . . . . . . . . false
+inside for
+    Center. . . . . . . . . . . . . . [10.7 8.1 0.0]
+    Radius. . . . . . . . . . . . . . 0.192
+    Diameter. . . . . . . . . . . . . 0.384
+    Normal. . . . . . . . . . . . . . [0.0 0.0 1.0]
+    Thickness . . . . . . . . . . . . 0.0
+    Start Point . . . . . . . . . . . [10.9 8.1 0.0]
+    End Point . . . . . . . . . . . . [10.9 8.1 0.0]
+    Closed. . . . . . . . . . . . . . true
+    Periodic. . . . . . . . . . . . . true
+    Area. . . . . . . . . . . . . . . 0.11581167158193413
+    Min Extents . . . . . . . . . . . [10.5 7.9 0.0]
+    Max Extents . . . . . . . . . . . [10.9 8.3 0.0]
+    Layer . . . . . . . . . . . . . . PIPELINE-KAQ-0803-TEXT
+    Color Index . . . . . . . . . . . 256
+    Color . . . . . . . . . . . . . . ByLayer r:0 g:0 b:0
+    Linetype. . . . . . . . . . . . . BYLAYER
+    LTscale . . . . . . . . . . . . . 1.0
+    Lineweight. . . . . . . . . . . . kLnWtByLayer
+    Plot Style. . . . . . . . . . . . ByLayer
+    Transparency Method . . . . . . . ByLayer
+    Visibility. . . . . . . . . . . . kVisible
+    Planar. . . . . . . . . . . . . . true
+openObject() case1
+
+Type. . . . . . . . . . . . . . . . . com.opendesign.core.OdRxClass@1a1e81a
+  IsErased. . . . . . . . . . . . . . false
+inside for
+    Normal. . . . . . . . . . . . . . [0.0 0.0 1.0]
+    Thickness . . . . . . . . . . . . 0.0
+    Min Extents . . . . . . . . . . . [10.1 7.7 0.0]
+    Max Extents . . . . . . . . . . . [10.5 8.0 0.0]
+    Layer . . . . . . . . . . . . . . PIPELINE-KAQ-0803-TEXT
+    Color Index . . . . . . . . . . . 256
+    Color . . . . . . . . . . . . . . ByLayer r:0 g:0 b:0
+    Linetype. . . . . . . . . . . . . BYLAYER
+    LTscale . . . . . . . . . . . . . 1.0
+    Lineweight. . . . . . . . . . . . kLnWtByLayer
+    Plot Style. . . . . . . . . . . . ByLayer
+    Transparency Method . . . . . . . ByLayer
+    Visibility. . . . . . . . . . . . kVisible
+    Planar. . . . . . . . . . . . . . true
+openObject() case1
+
+Type. . . . . . . . . . . . . . . . . com.opendesign.core.OdRxClass@8d2085
+  IsErased. . . . . . . . . . . . . . false
+inside for
+    !WARNING! . . . . . . . . . . . . NOT SUPPORTED YET: <AcDbSolid>
+openObject() case1
+
+Type. . . . . . . . . . . . . . . . . com.opendesign.core.OdRxClass@15216b7
+  IsErased. . . . . . . . . . . . . . false
+inside for
+    Text String . . . . . . . . . . . 5.0
+    Text Position . . . . . . . . . . [10.5 8.0 0.0]
+    Default Alignment . . . . . . . . true
+    Alignment Point . . . . . . . . . [10.7 8.1 0.0]
+    Height. . . . . . . . . . . . . . 0.12
+    Rotation. . . . . . . . . . . . . 0.0d
+    Horizontal Mode . . . . . . . . . kTextMid
+    Vertical Mode . . . . . . . . . . kTextBase
+    Mirrored in X . . . . . . . . . . false
+    Mirrored in Y . . . . . . . . . . false
+    Oblique . . . . . . . . . . . . . 0.0d
+    Text Style. . . . . . . . . . . . ROMANS
+        typeface
+        bold. . . . . . . . . . . . . false
+        italic. . . . . . . . . . . . false
+        charset . . . . . . . . . . . 0
+        pitchAndFamily. . . . . . . . 0
+    Width Factor. . . . . . . . . . . 1.0
+    TL Bounding Point . . . . . . . . [10.5 8.1 0.0]
+    TR Bounding Point . . . . . . . . [10.8 8.1 0.0]
+    BL Bounding Point . . . . . . . . [10.5 8.0 0.0]
+    BR Bounding Point . . . . . . . . [10.8 8.0 0.0]
+    Normal. . . . . . . . . . . . . . [0.0 0.0 1.0]
+    Thickness . . . . . . . . . . . . 0.0
+    Min Extents . . . . . . . . . . . [10.5 8.0 0.0]
+    Max Extents . . . . . . . . . . . [10.8 8.1 0.0]
+    Layer . . . . . . . . . . . . . . PIPELINE-KAQ-0803-TEXT
+    Color Index . . . . . . . . . . . 256
+    Color . . . . . . . . . . . . . . ByLayer r:0 g:0 b:0
+    Linetype. . . . . . . . . . . . . BYLAYER
+    LTscale . . . . . . . . . . . . . 1.0
+    Lineweight. . . . . . . . . . . . kLnWtByLayer
+    Plot Style. . . . . . . . . . . . ByLayer
+    Transparency Method . . . . . . . ByLayer
+    Visibility. . . . . . . . . . . . kVisible
+    Planar. . . . . . . . . . . . . . true
+openObject() case1
+
+Type. . . . . . . . . . . . . . . . . com.opendesign.core.OdRxClass@51576a
+  IsErased. . . . . . . . . . . . . . false
+inside for
+    Center. . . . . . . . . . . . . . [9.4 8.7 0.0]
+    Radius. . . . . . . . . . . . . . 0.192
+    Diameter. . . . . . . . . . . . . 0.384
+    Normal. . . . . . . . . . . . . . [0.0 0.0 1.0]
+    Thickness . . . . . . . . . . . . 0.0
+    Start Point . . . . . . . . . . . [9.6 8.7 0.0]
+    End Point . . . . . . . . . . . . [9.6 8.7 0.0]
+    Closed. . . . . . . . . . . . . . true
+    Periodic. . . . . . . . . . . . . true
+    Area. . . . . . . . . . . . . . . 0.11581167158193413
+    Min Extents . . . . . . . . . . . [9.3 8.5 0.0]
+    Max Extents . . . . . . . . . . . [9.6 8.9 0.0]
+    Layer . . . . . . . . . . . . . . PIPELINE-KAQ-0803-TEXT
+    Color Index . . . . . . . . . . . 256
+    Color . . . . . . . . . . . . . . ByLayer r:0 g:0 b:0
+    Linetype. . . . . . . . . . . . . BYLAYER
+    LTscale . . . . . . . . . . . . . 1.0
+    Lineweight. . . . . . . . . . . . kLnWtByLayer
+    Plot Style. . . . . . . . . . . . ByLayer
+    Transparency Method . . . . . . . ByLayer
+    Visibility. . . . . . . . . . . . kVisible
+    Planar. . . . . . . . . . . . . . true
+openObject() case1
+
+Type. . . . . . . . . . . . . . . . . com.opendesign.core.OdRxClass@422ddc
+  IsErased. . . . . . . . . . . . . . false
+inside for
+    Normal. . . . . . . . . . . . . . [0.0 0.0 1.0]
+    Thickness . . . . . . . . . . . . 0.0
+    Min Extents . . . . . . . . . . . [9.6 8.8 0.0]
+    Max Extents . . . . . . . . . . . [10.0 9.0 0.0]
+    Layer . . . . . . . . . . . . . . PIPELINE-KAQ-0803-TEXT
+    Color Index . . . . . . . . . . . 256
+    Color . . . . . . . . . . . . . . ByLayer r:0 g:0 b:0
+    Linetype. . . . . . . . . . . . . BYLAYER
+    LTscale . . . . . . . . . . . . . 1.0
+    Lineweight. . . . . . . . . . . . kLnWtByLayer
+    Plot Style. . . . . . . . . . . . ByLayer
+    Transparency Method . . . . . . . ByLayer
+    Visibility. . . . . . . . . . . . kVisible
+    Planar. . . . . . . . . . . . . . true
+openObject() case1
+
+Type. . . . . . . . . . . . . . . . . com.opendesign.core.OdRxClass@d0d91c
+  IsErased. . . . . . . . . . . . . . false
+inside for
+    !WARNING! . . . . . . . . . . . . NOT SUPPORTED YET: <AcDbSolid>
+openObject() case1
+
+Type. . . . . . . . . . . . . . . . . com.opendesign.core.OdRxClass@15df92e
+  IsErased. . . . . . . . . . . . . . false
+inside for
+    Text String . . . . . . . . . . . 6.0
+    Text Position . . . . . . . . . . [9.3 8.6 0.0]
+    Default Alignment . . . . . . . . true
+    Alignment Point . . . . . . . . . [9.4 8.7 0.0]
+    Height. . . . . . . . . . . . . . 0.12
+    Rotation. . . . . . . . . . . . . 0.0d
+    Horizontal Mode . . . . . . . . . kTextMid
+    Vertical Mode . . . . . . . . . . kTextBase
+    Mirrored in X . . . . . . . . . . false
+    Mirrored in Y . . . . . . . . . . false
+    Oblique . . . . . . . . . . . . . 0.0d
+    Text Style. . . . . . . . . . . . ROMANS
+        typeface
+        bold. . . . . . . . . . . . . false
+        italic. . . . . . . . . . . . false
+        charset . . . . . . . . . . . 0
+        pitchAndFamily. . . . . . . . 0
+    Width Factor. . . . . . . . . . . 1.0
+    TL Bounding Point . . . . . . . . [9.3 8.8 0.0]
+    TR Bounding Point . . . . . . . . [9.6 8.8 0.0]
+    BL Bounding Point . . . . . . . . [9.3 8.6 0.0]
+    BR Bounding Point . . . . . . . . [9.6 8.6 0.0]
+    Normal. . . . . . . . . . . . . . [0.0 0.0 1.0]
+    Thickness . . . . . . . . . . . . 0.0
+    Min Extents . . . . . . . . . . . [9.3 8.6 0.0]
+    Max Extents . . . . . . . . . . . [9.6 8.8 0.0]
+    Layer . . . . . . . . . . . . . . PIPELINE-KAQ-0803-TEXT
+    Color Index . . . . . . . . . . . 256
+    Color . . . . . . . . . . . . . . ByLayer r:0 g:0 b:0
+    Linetype. . . . . . . . . . . . . BYLAYER
+    LTscale . . . . . . . . . . . . . 1.0
+    Lineweight. . . . . . . . . . . . kLnWtByLayer
+    Plot Style. . . . . . . . . . . . ByLayer
+    Transparency Method . . . . . . . ByLayer
+    Visibility. . . . . . . . . . . . kVisible
+    Planar. . . . . . . . . . . . . . true
+openObject() case1
+
+Type. . . . . . . . . . . . . . . . . com.opendesign.core.OdRxClass@925975
+  IsErased. . . . . . . . . . . . . . false
+inside for
+    Center. . . . . . . . . . . . . . [9.5 10.3 0.0]
+    Radius. . . . . . . . . . . . . . 0.192
+    Diameter. . . . . . . . . . . . . 0.384
+    Normal. . . . . . . . . . . . . . [0.0 0.0 1.0]
+    Thickness . . . . . . . . . . . . 0.0
+    Start Point . . . . . . . . . . . [9.7 10.3 0.0]
+    End Point . . . . . . . . . . . . [9.7 10.3 0.0]
+    Closed. . . . . . . . . . . . . . true
+    Periodic. . . . . . . . . . . . . true
+    Area. . . . . . . . . . . . . . . 0.11581167158193413
+    Min Extents . . . . . . . . . . . [9.3 10.1 0.0]
+    Max Extents . . . . . . . . . . . [9.7 10.5 0.0]
+    Layer . . . . . . . . . . . . . . PIPELINE-KAQ-0803-TEXT
+    Color Index . . . . . . . . . . . 256
+    Color . . . . . . . . . . . . . . ByLayer r:0 g:0 b:0
+    Linetype. . . . . . . . . . . . . BYLAYER
+    LTscale . . . . . . . . . . . . . 1.0
+    Lineweight. . . . . . . . . . . . kLnWtByLayer
+    Plot Style. . . . . . . . . . . . ByLayer
+    Transparency Method . . . . . . . ByLayer
+    Visibility. . . . . . . . . . . . kVisible
+    Planar. . . . . . . . . . . . . . true
+openObject() case1
+
+Type. . . . . . . . . . . . . . . . . com.opendesign.core.OdRxClass@2f1be6
+  IsErased. . . . . . . . . . . . . . false
+inside for
+    Normal. . . . . . . . . . . . . . [0.0 0.0 1.0]
+    Thickness . . . . . . . . . . . . 0.0
+    Min Extents . . . . . . . . . . . [9.7 10.4 0.0]
+    Max Extents . . . . . . . . . . . [10.0 10.6 0.0]
+    Layer . . . . . . . . . . . . . . PIPELINE-KAQ-0803-TEXT
+    Color Index . . . . . . . . . . . 256
+    Color . . . . . . . . . . . . . . ByLayer r:0 g:0 b:0
+    Linetype. . . . . . . . . . . . . BYLAYER
+    LTscale . . . . . . . . . . . . . 1.0
+    Lineweight. . . . . . . . . . . . kLnWtByLayer
+    Plot Style. . . . . . . . . . . . ByLayer
+    Transparency Method . . . . . . . ByLayer
+    Visibility. . . . . . . . . . . . kVisible
+    Planar. . . . . . . . . . . . . . true
+openObject() case1
+
+Type. . . . . . . . . . . . . . . . . com.opendesign.core.OdRxClass@d0cb66
+  IsErased. . . . . . . . . . . . . . false
+inside for
+    !WARNING! . . . . . . . . . . . . NOT SUPPORTED YET: <AcDbSolid>
+openObject() case1
+
+Type. . . . . . . . . . . . . . . . . com.opendesign.core.OdRxClass@1d996fb
+  IsErased. . . . . . . . . . . . . . false
+inside for
+    Text String . . . . . . . . . . . 7.0
+    Text Position . . . . . . . . . . [9.3 10.3 0.0]
+    Default Alignment . . . . . . . . true
+    Alignment Point . . . . . . . . . [9.5 10.3 0.0]
+    Height. . . . . . . . . . . . . . 0.12
+    Rotation. . . . . . . . . . . . . 0.0d
+    Horizontal Mode . . . . . . . . . kTextMid
+    Vertical Mode . . . . . . . . . . kTextBase
+    Mirrored in X . . . . . . . . . . false
+    Mirrored in Y . . . . . . . . . . false
+    Oblique . . . . . . . . . . . . . 0.0d
+    Text Style. . . . . . . . . . . . ROMANS
+        typeface
+        bold. . . . . . . . . . . . . false
+        italic. . . . . . . . . . . . false
+        charset . . . . . . . . . . . 0
+        pitchAndFamily. . . . . . . . 0
+    Width Factor. . . . . . . . . . . 1.0
+    TL Bounding Point . . . . . . . . [9.4 10.4 0.0]
+    TR Bounding Point . . . . . . . . [9.6 10.4 0.0]
+    BL Bounding Point . . . . . . . . [9.4 10.3 0.0]
+    BR Bounding Point . . . . . . . . [9.6 10.3 0.0]
+    Normal. . . . . . . . . . . . . . [0.0 0.0 1.0]
+    Thickness . . . . . . . . . . . . 0.0
+    Min Extents . . . . . . . . . . . [9.4 10.3 0.0]
+    Max Extents . . . . . . . . . . . [9.6 10.4 0.0]
+    Layer . . . . . . . . . . . . . . PIPELINE-KAQ-0803-TEXT
+    Color Index . . . . . . . . . . . 256
+    Color . . . . . . . . . . . . . . ByLayer r:0 g:0 b:0
+    Linetype. . . . . . . . . . . . . BYLAYER
+    LTscale . . . . . . . . . . . . . 1.0
+    Lineweight. . . . . . . . . . . . kLnWtByLayer
+    Plot Style. . . . . . . . . . . . ByLayer
+    Transparency Method . . . . . . . ByLayer
+    Visibility. . . . . . . . . . . . kVisible
+    Planar. . . . . . . . . . . . . . true
+openObject() case1
+
+Type. . . . . . . . . . . . . . . . . com.opendesign.core.OdRxClass@34160
+  IsErased. . . . . . . . . . . . . . false
+inside for
+    Center. . . . . . . . . . . . . . [10.7 9.6 0.0]
+    Radius. . . . . . . . . . . . . . 0.24
+    Diameter. . . . . . . . . . . . . 0.48
+    Normal. . . . . . . . . . . . . . [0.0 0.0 1.0]
+    Thickness . . . . . . . . . . . . 0.0
+    Start Point . . . . . . . . . . . [10.9 9.6 0.0]
+    End Point . . . . . . . . . . . . [10.9 9.6 0.0]
+    Closed. . . . . . . . . . . . . . true
+    Periodic. . . . . . . . . . . . . true
+    Area. . . . . . . . . . . . . . . 0.18095573684677208
+    Min Extents . . . . . . . . . . . [10.4 9.3 0.0]
+    Max Extents . . . . . . . . . . . [10.9 9.8 0.0]
+    Layer . . . . . . . . . . . . . . PIPELINE-KAQ-0803-TEXT
+    Color Index . . . . . . . . . . . 256
+    Color . . . . . . . . . . . . . . ByLayer r:0 g:0 b:0
+    Linetype. . . . . . . . . . . . . BYLAYER
+    LTscale . . . . . . . . . . . . . 1.0
+    Lineweight. . . . . . . . . . . . kLnWtByLayer
+    Plot Style. . . . . . . . . . . . ByLayer
+    Transparency Method . . . . . . . ByLayer
+    Visibility. . . . . . . . . . . . kVisible
+    Planar. . . . . . . . . . . . . . true
+openObject() case1
+
+Type. . . . . . . . . . . . . . . . . com.opendesign.core.OdRxClass@1b933cb
+  IsErased. . . . . . . . . . . . . . false
+inside for
+    Normal. . . . . . . . . . . . . . [0.0 0.0 1.0]
+    Thickness . . . . . . . . . . . . 0.0
+    Min Extents . . . . . . . . . . . [10.1 9.3 0.0]
+    Max Extents . . . . . . . . . . . [10.5 9.4 0.0]
+    Layer . . . . . . . . . . . . . . PIPELINE-KAQ-0803-TEXT
+    Color Index . . . . . . . . . . . 256
+    Color . . . . . . . . . . . . . . ByLayer r:0 g:0 b:0
+    Linetype. . . . . . . . . . . . . BYLAYER
+    LTscale . . . . . . . . . . . . . 1.0
+    Lineweight. . . . . . . . . . . . kLnWtByLayer
+    Plot Style. . . . . . . . . . . . ByLayer
+    Transparency Method . . . . . . . ByLayer
+    Visibility. . . . . . . . . . . . kVisible
+    Planar. . . . . . . . . . . . . . true
+openObject() case1
+
+Type. . . . . . . . . . . . . . . . . com.opendesign.core.OdRxClass@1f75a70
+  IsErased. . . . . . . . . . . . . . false
+inside for
+    !WARNING! . . . . . . . . . . . . NOT SUPPORTED YET: <AcDbSolid>
+openObject() case1
+
+Type. . . . . . . . . . . . . . . . . com.opendesign.core.OdRxClass@52859c
+  IsErased. . . . . . . . . . . . . . false
+inside for
+    Text String . . . . . . . . . . . 21.0
+    Text Position . . . . . . . . . . [10.5 9.5 0.0]
+    Default Alignment . . . . . . . . true
+    Alignment Point . . . . . . . . . [10.7 9.6 0.0]
+    Height. . . . . . . . . . . . . . 0.12
+    Rotation. . . . . . . . . . . . . 0.0d
+    Horizontal Mode . . . . . . . . . kTextMid
+    Vertical Mode . . . . . . . . . . kTextBase
+    Mirrored in X . . . . . . . . . . false
+    Mirrored in Y . . . . . . . . . . false
+    Oblique . . . . . . . . . . . . . 0.0d
+    Text Style. . . . . . . . . . . . ROMANS
+        typeface
+        bold. . . . . . . . . . . . . false
+        italic. . . . . . . . . . . . false
+        charset . . . . . . . . . . . 0
+        pitchAndFamily. . . . . . . . 0
+    Width Factor. . . . . . . . . . . 1.0
+    TL Bounding Point . . . . . . . . [10.5 9.6 0.0]
+    TR Bounding Point . . . . . . . . [10.9 9.6 0.0]
+    BL Bounding Point . . . . . . . . [10.5 9.5 0.0]
+    BR Bounding Point . . . . . . . . [10.9 9.5 0.0]
+    Normal. . . . . . . . . . . . . . [0.0 0.0 1.0]
+    Thickness . . . . . . . . . . . . 0.0
+    Min Extents . . . . . . . . . . . [10.5 9.5 0.0]
+    Max Extents . . . . . . . . . . . [10.9 9.6 0.0]
+    Layer . . . . . . . . . . . . . . PIPELINE-KAQ-0803-TEXT
+    Color Index . . . . . . . . . . . 256
+    Color . . . . . . . . . . . . . . ByLayer r:0 g:0 b:0
+    Linetype. . . . . . . . . . . . . BYLAYER
+    LTscale . . . . . . . . . . . . . 1.0
+    Lineweight. . . . . . . . . . . . kLnWtByLayer
+    Plot Style. . . . . . . . . . . . ByLayer
+    Transparency Method . . . . . . . ByLayer
+    Visibility. . . . . . . . . . . . kVisible
+    Planar. . . . . . . . . . . . . . true
+openObject() case1
+
+Type. . . . . . . . . . . . . . . . . com.opendesign.core.OdRxClass@b783c6
+  IsErased. . . . . . . . . . . . . . false
+inside for
+    Center. . . . . . . . . . . . . . [10.7 10.8 0.0]
+    Radius. . . . . . . . . . . . . . 0.24
+    Diameter. . . . . . . . . . . . . 0.48
+    Normal. . . . . . . . . . . . . . [0.0 0.0 1.0]
+    Thickness . . . . . . . . . . . . 0.0
+    Start Point . . . . . . . . . . . [10.9 10.8 0.0]
+    End Point . . . . . . . . . . . . [10.9 10.8 0.0]
+    Closed. . . . . . . . . . . . . . true
+    Periodic. . . . . . . . . . . . . true
+    Area. . . . . . . . . . . . . . . 0.18095573684677208
+    Min Extents . . . . . . . . . . . [10.4 10.5 0.0]
+    Max Extents . . . . . . . . . . . [10.9 11.0 0.0]
+    Layer . . . . . . . . . . . . . . PIPELINE-KAQ-0803-TEXT
+    Color Index . . . . . . . . . . . 256
+    Color . . . . . . . . . . . . . . ByLayer r:0 g:0 b:0
+    Linetype. . . . . . . . . . . . . BYLAYER
+    LTscale . . . . . . . . . . . . . 1.0
+    Lineweight. . . . . . . . . . . . kLnWtByLayer
+    Plot Style. . . . . . . . . . . . ByLayer
+    Transparency Method . . . . . . . ByLayer
+    Visibility. . . . . . . . . . . . kVisible
+    Planar. . . . . . . . . . . . . . true
+openObject() case1
+
+Type. . . . . . . . . . . . . . . . . com.opendesign.core.OdRxClass@2c5b4e
+  IsErased. . . . . . . . . . . . . . false
+inside for
+    Normal. . . . . . . . . . . . . . [0.0 0.0 1.0]
+    Thickness . . . . . . . . . . . . 0.0
+    Min Extents . . . . . . . . . . . [10.1 10.4 0.0]
+    Max Extents . . . . . . . . . . . [10.5 10.6 0.0]
+    Layer . . . . . . . . . . . . . . PIPELINE-KAQ-0803-TEXT
+    Color Index . . . . . . . . . . . 256
+    Color . . . . . . . . . . . . . . ByLayer r:0 g:0 b:0
+    Linetype. . . . . . . . . . . . . BYLAYER
+    LTscale . . . . . . . . . . . . . 1.0
+    Lineweight. . . . . . . . . . . . kLnWtByLayer
+    Plot Style. . . . . . . . . . . . ByLayer
+    Transparency Method . . . . . . . ByLayer
+    Visibility. . . . . . . . . . . . kVisible
+    Planar. . . . . . . . . . . . . . true
+openObject() case1
+
+Type. . . . . . . . . . . . . . . . . com.opendesign.core.OdRxClass@1e78a4
+  IsErased. . . . . . . . . . . . . . false
+inside for
+    !WARNING! . . . . . . . . . . . . NOT SUPPORTED YET: <AcDbSolid>
+openObject() case1
+
+Type. . . . . . . . . . . . . . . . . com.opendesign.core.OdRxClass@827e06
+  IsErased. . . . . . . . . . . . . . false
+inside for
+    Text String . . . . . . . . . . . 20.0
+    Text Position . . . . . . . . . . [10.5 10.7 0.0]
+    Default Alignment . . . . . . . . true
+    Alignment Point . . . . . . . . . [10.7 10.8 0.0]
+    Height. . . . . . . . . . . . . . 0.12
+    Rotation. . . . . . . . . . . . . 0.0d
+    Horizontal Mode . . . . . . . . . kTextMid
+    Vertical Mode . . . . . . . . . . kTextBase
+    Mirrored in X . . . . . . . . . . false
+    Mirrored in Y . . . . . . . . . . false
+    Oblique . . . . . . . . . . . . . 0.0d
+    Text Style. . . . . . . . . . . . ROMANS
+        typeface
+        bold. . . . . . . . . . . . . false
+        italic. . . . . . . . . . . . false
+        charset . . . . . . . . . . . 0
+        pitchAndFamily. . . . . . . . 0
+    Width Factor. . . . . . . . . . . 1.0
+    TL Bounding Point . . . . . . . . [10.5 10.8 0.0]
+    TR Bounding Point . . . . . . . . [10.8 10.8 0.0]
+    BL Bounding Point . . . . . . . . [10.5 10.7 0.0]
+    BR Bounding Point . . . . . . . . [10.8 10.7 0.0]
+    Normal. . . . . . . . . . . . . . [0.0 0.0 1.0]
+    Thickness . . . . . . . . . . . . 0.0
+    Min Extents . . . . . . . . . . . [10.5 10.7 0.0]
+    Max Extents . . . . . . . . . . . [10.8 10.8 0.0]
+    Layer . . . . . . . . . . . . . . PIPELINE-KAQ-0803-TEXT
+    Color Index . . . . . . . . . . . 256
+    Color . . . . . . . . . . . . . . ByLayer r:0 g:0 b:0
+    Linetype. . . . . . . . . . . . . BYLAYER
+    LTscale . . . . . . . . . . . . . 1.0
+    Lineweight. . . . . . . . . . . . kLnWtByLayer
+    Plot Style. . . . . . . . . . . . ByLayer
+    Transparency Method . . . . . . . ByLayer
+    Visibility. . . . . . . . . . . . kVisible
+    Planar. . . . . . . . . . . . . . true
+openObject() case1
+
+Type. . . . . . . . . . . . . . . . . com.opendesign.core.OdRxClass@11fef77
+  IsErased. . . . . . . . . . . . . . false
+inside for
+    Center. . . . . . . . . . . . . . [10.7 11.4 0.0]
+    Radius. . . . . . . . . . . . . . 0.24
+    Diameter. . . . . . . . . . . . . 0.48
+    Normal. . . . . . . . . . . . . . [0.0 0.0 1.0]
+    Thickness . . . . . . . . . . . . 0.0
+    Start Point . . . . . . . . . . . [10.9 11.4 0.0]
+    End Point . . . . . . . . . . . . [10.9 11.4 0.0]
+    Closed. . . . . . . . . . . . . . true
+    Periodic. . . . . . . . . . . . . true
+    Area. . . . . . . . . . . . . . . 0.18095573684677208
+    Min Extents . . . . . . . . . . . [10.4 11.2 0.0]
+    Max Extents . . . . . . . . . . . [10.9 11.6 0.0]
+    Layer . . . . . . . . . . . . . . PIPELINE-KAQ-0803-TEXT
+    Color Index . . . . . . . . . . . 256
+    Color . . . . . . . . . . . . . . ByLayer r:0 g:0 b:0
+    Linetype. . . . . . . . . . . . . BYLAYER
+    LTscale . . . . . . . . . . . . . 1.0
+    Lineweight. . . . . . . . . . . . kLnWtByLayer
+    Plot Style. . . . . . . . . . . . ByLayer
+    Transparency Method . . . . . . . ByLayer
+    Visibility. . . . . . . . . . . . kVisible
+    Planar. . . . . . . . . . . . . . true
+openObject() case1
+
+Type. . . . . . . . . . . . . . . . . com.opendesign.core.OdRxClass@1a287d9
+  IsErased. . . . . . . . . . . . . . false
+inside for
+    Normal. . . . . . . . . . . . . . [0.0 0.0 1.0]
+    Thickness . . . . . . . . . . . . 0.0
+    Min Extents . . . . . . . . . . . [10.1 11.1 0.0]
+    Max Extents . . . . . . . . . . . [10.5 11.3 0.0]
+    Layer . . . . . . . . . . . . . . PIPELINE-KAQ-0803-TEXT
+    Color Index . . . . . . . . . . . 256
+    Color . . . . . . . . . . . . . . ByLayer r:0 g:0 b:0
+    Linetype. . . . . . . . . . . . . BYLAYER
+    LTscale . . . . . . . . . . . . . 1.0
+    Lineweight. . . . . . . . . . . . kLnWtByLayer
+    Plot Style. . . . . . . . . . . . ByLayer
+    Transparency Method . . . . . . . ByLayer
+    Visibility. . . . . . . . . . . . kVisible
+    Planar. . . . . . . . . . . . . . true
+openObject() case1
+
+Type. . . . . . . . . . . . . . . . . com.opendesign.core.OdRxClass@184f3e5
+  IsErased. . . . . . . . . . . . . . false
+inside for
+    !WARNING! . . . . . . . . . . . . NOT SUPPORTED YET: <AcDbSolid>
+openObject() case1
+
+Type. . . . . . . . . . . . . . . . . com.opendesign.core.OdRxClass@1a8402a
+  IsErased. . . . . . . . . . . . . . false
+inside for
+    Text String . . . . . . . . . . . 19.0
+    Text Position . . . . . . . . . . [10.5 11.3 0.0]
+    Default Alignment . . . . . . . . true
+    Alignment Point . . . . . . . . . [10.7 11.4 0.0]
+    Height. . . . . . . . . . . . . . 0.12
+    Rotation. . . . . . . . . . . . . 0.0d
+    Horizontal Mode . . . . . . . . . kTextMid
+    Vertical Mode . . . . . . . . . . kTextBase
+    Mirrored in X . . . . . . . . . . false
+    Mirrored in Y . . . . . . . . . . false
+    Oblique . . . . . . . . . . . . . 0.0d
+    Text Style. . . . . . . . . . . . ROMANS
+        typeface
+        bold. . . . . . . . . . . . . false
+        italic. . . . . . . . . . . . false
+        charset . . . . . . . . . . . 0
+        pitchAndFamily. . . . . . . . 0
+    Width Factor. . . . . . . . . . . 1.0
+    TL Bounding Point . . . . . . . . [10.5 11.5 0.0]
+    TR Bounding Point . . . . . . . . [10.8 11.5 0.0]
+    BL Bounding Point . . . . . . . . [10.5 11.3 0.0]
+    BR Bounding Point . . . . . . . . [10.8 11.3 0.0]
+    Normal. . . . . . . . . . . . . . [0.0 0.0 1.0]
+    Thickness . . . . . . . . . . . . 0.0
+    Min Extents . . . . . . . . . . . [10.5 11.3 0.0]
+    Max Extents . . . . . . . . . . . [10.8 11.5 0.0]
+    Layer . . . . . . . . . . . . . . PIPELINE-KAQ-0803-TEXT
+    Color Index . . . . . . . . . . . 256
+    Color . . . . . . . . . . . . . . ByLayer r:0 g:0 b:0
+    Linetype. . . . . . . . . . . . . BYLAYER
+    LTscale . . . . . . . . . . . . . 1.0
+    Lineweight. . . . . . . . . . . . kLnWtByLayer
+    Plot Style. . . . . . . . . . . . ByLayer
+    Transparency Method . . . . . . . ByLayer
+    Visibility. . . . . . . . . . . . kVisible
+    Planar. . . . . . . . . . . . . . true
+Layout Name . . . . . . . . . . . . . Layout1
+Dumping finished
+

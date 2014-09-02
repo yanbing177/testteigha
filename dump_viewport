@@ -1,0 +1,37 @@
+
+<AcDbViewportTable>
+
+<AcDbViewportTableRecord>
+Name =  . . . . . . . . . . . . . . . *Active
+Circle Sides =  . . . . . . . . . . . 100
+Fast Zooms Enabled =  . . . . . . . . true
+Grid Enabled =  . . . . . . . . . . . false
+Grid Increments = . . . . . . . . . . [0.4 0.1]
+Icon at Origin =  . . . . . . . . . . false
+Icon Enabled =  . . . . . . . . . . . false
+Iso snap Enabled =  . . . . . . . . . true
+Iso Snap Pair = . . . . . . . . . . . 2
+UCS Saved w/Vport = . . . . . . . . . false
+UCS follow =  . . . . . . . . . . . . false
+Lower-Left Corner = . . . . . . . . . [0.0 0.0]
+Upper-Right Corner =  . . . . . . . . [1.0 1.0]
+Snap Angle =  . . . . . . . . . . . . 0.0
+Snap Base = . . . . . . . . . . . . . [0.0 0.0]
+Snap Enabled =  . . . . . . . . . . . false
+Snap Increments = . . . . . . . . . . [0.2 0.1]
+  Back Clip Dist =  . . . . . . . . . 0.0
+  Back Clip Enabled = . . . . . . . . false
+  Front Clip Dist = . . . . . . . . . 0.0
+  Front Clip Enabled =  . . . . . . . false
+  Front Clip at Eye = . . . . . . . . true
+  Elevation = . . . . . . . . . . . . 0.0
+  Height =  . . . . . . . . . . . . . 17.249625582258545
+  Width = . . . . . . . . . . . . . . 28.850115023696567
+  Lens Length = . . . . . . . . . . . 50.0
+  Perspective = . . . . . . . . . . . false
+  Target =  . . . . . . . . . . . . . [0.0 0.0 0.0]
+  View Direction =  . . . . . . . . . [0.0 0.0 1.0]
+  Twist Angle = . . . . . . . . . . . 0.0
+    Xref dependent =  . . . . . . . . false
+Dumping finished
+

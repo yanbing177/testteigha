@@ -16,6 +16,30 @@
     <orderEntry type="library" exported="" name="Gradle: TeighaJavaDwg" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: junit-4.11" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: hamcrest-core-1.3" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: gluegen-rt-main-2.2.0" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: jogl-all-main-2.2.0" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: gluegen-rt-2.2.0-natives-android-armv6" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: gluegen-rt-2.2.0-natives-linux-amd64" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: gluegen-rt-2.2.0-natives-linux-armv6" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: gluegen-rt-2.2.0-natives-linux-armv6hf" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: gluegen-rt-2.2.0-natives-linux-i586" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: gluegen-rt-2.2.0-natives-macosx-universal" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: gluegen-rt-2.2.0-natives-solaris-amd64" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: gluegen-rt-2.2.0-natives-solaris-i586" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: gluegen-rt-2.2.0-natives-windows-amd64" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: gluegen-rt-2.2.0-natives-windows-i586" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: gluegen-rt-2.2.0" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: jogl-all-2.2.0-natives-android-armv6" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: jogl-all-2.2.0-natives-linux-amd64" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: jogl-all-2.2.0-natives-linux-armv6" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: jogl-all-2.2.0-natives-linux-armv6hf" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: jogl-all-2.2.0-natives-linux-i586" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: jogl-all-2.2.0-natives-macosx-universal" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: jogl-all-2.2.0-natives-solaris-amd64" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: jogl-all-2.2.0-natives-solaris-i586" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: jogl-all-2.2.0-natives-windows-amd64" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: jogl-all-2.2.0-natives-windows-i586" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: jogl-all-2.2.0" level="project" />
   </component>
 </module>
 

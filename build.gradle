@@ -4,8 +4,9 @@ apply plugin: 'application'
 sourceCompatibility = 1.7
 version = '1.0'
 
-mainClassName = 'OdReadExJava'
-
+//mainClassName = 'OdReadExJava'
+mainClassName = 'TeighaDemo'
+//mainClassName = 'test.TestDatabaseTeigha'
 run {
     systemProperty "java.library.path", 'lib/teighajava/vc10dll'
 }
@@ -18,5 +19,7 @@ repositories {
 dependencies {
     compile name: 'TeighaJavaCore'
     compile name: 'TeighaJavaDwg'
+    compile 'org.jogamp.gluegen:gluegen-rt-main:2.2.0'
+    compile 'org.jogamp.jogl:jogl-all-main:2.2.0'
     testCompile group: 'junit', name: 'junit', version: '4.11'
 }
